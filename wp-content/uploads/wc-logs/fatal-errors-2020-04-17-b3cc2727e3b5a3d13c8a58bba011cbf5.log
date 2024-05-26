@@ -1,0 +1,64 @@
+2020-04-17T13:51:46+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-includes\Requests\Transport\cURL.php, na linha 163
+
+2020-04-17T16:23:40+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-includes\wp-db.php, na linha 2030
+
+2020-04-17T17:56:59+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce\includes\emails\class-wc-email-customer-invoice.php, na linha 8
+
+2020-04-17T17:56:59+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce\includes\emails\class-wc-email-customer-note.php, na linha 8
+
+2020-04-17T17:56:59+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-admin\includes\media.php, na linha 16
+
+2020-04-17T17:58:32+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-includes\wp-db.php, na linha 2030
+
+2020-04-17T18:00:25+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\erpb2m\wp-includes\pomo\streams.php on line 163
+
+2020-04-17T18:00:53+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce-admin\src\API\Leaderboards.php, na linha 12
+
+2020-04-17T18:00:53+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce-admin\vendor\composer\ClassLoader.php, na linha 384
+
+2020-04-17T18:00:53+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce-admin\vendor\composer\ClassLoader.php, na linha 384
+
+2020-04-17T18:00:53+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\woo-gutenberg-products-block\vendor\autoload_packages.php, na linha 109
+
+2020-04-17T18:00:54+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce-admin\vendor\composer\ClassLoader.php, na linha 384
+
+2020-04-17T18:01:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-includes\wp-db.php, na linha 2030
+
+2020-04-17T18:15:13+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-includes\wp-db.php, na linha 2030
+
+2020-04-17T18:28:05+00:00 CRITICAL Uncaught Error: Call to a member function get_attributes() on bool in C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce\includes\data-stores\class-wc-product-data-store-cpt.php:1173
+Stack trace:
+#0 C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(207): WC_Product_Data_Store_CPT->create_all_product_variations(Object(WC_Product_Variable), 50)
+#1 C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce\includes\class-wc-ajax.php(749): WC_Data_Store->__call('create_all_prod...', Array)
+#2 C:\xampp\htdocs\erpb2m\wp-includes\class-wp-hook.php(288): WC_AJAX::link_all_variations('')
+#3 C:\xampp\htdocs\erpb2m\wp-includes\class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#4 C:\xampp\htdocs\erpb2m\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\erpb2m\wp-admin\admin-ajax.php(175): do_action('wp_ajax_woocomm...')
+#6 {main}
+  thrown, em C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce\includes\data-stores\class-wc-product-data-store-cpt.php, na linha 1173
+
+2020-04-17T18:52:01+00:00 CRITICAL Uncaught Error: Call to a member function get_attributes() on bool in C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce\includes\data-stores\class-wc-product-data-store-cpt.php:1173
+Stack trace:
+#0 C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(207): WC_Product_Data_Store_CPT->create_all_product_variations(Object(WC_Product_Variable), 50)
+#1 C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce\includes\class-wc-ajax.php(749): WC_Data_Store->__call('create_all_prod...', Array)
+#2 C:\xampp\htdocs\erpb2m\wp-includes\class-wp-hook.php(288): WC_AJAX::link_all_variations('')
+#3 C:\xampp\htdocs\erpb2m\wp-includes\class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#4 C:\xampp\htdocs\erpb2m\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\erpb2m\wp-admin\admin-ajax.php(175): do_action('wp_ajax_woocomm...')
+#6 {main}
+  thrown, em C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce\includes\data-stores\class-wc-product-data-store-cpt.php, na linha 1173
+
+2020-04-17T20:11:33+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-includes\wp-db.php, na linha 2030
+
+2020-04-17T20:56:17+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\essential-addons-for-elementor-lite\autoload.php, na linha 26
+
+p, na linha 5
+
+2020-04-17T20:56:17+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\essential-addons-for-elementor-lite\autoload.php, na linha 26
+
+2020-04-17T20:56:17+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\essential-addons-for-elementor-lite\autoload.php, na linha 26
+
+2020-04-17T21:43:01+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-includes\class-wp-customize-manager.php, na linha 23
+
+2020-04-17T21:43:33+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\gutenberg\build\block-library\blocks\shortcode.php, na linha 16
+

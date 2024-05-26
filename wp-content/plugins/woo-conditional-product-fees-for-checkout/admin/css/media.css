@@ -1,0 +1,192 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media screen and (min-width:	1200px) and (max-width:	1300px){
+table#tbl-product-fee tr td input#product_fees_conditions_values {width: 20em;}
+}
+
+
+@media screen and (max-width:	1550px){
+	.fees-pricing-rules .fees_pricing_rules .tabs .tab-link{
+		font-size: 12px;
+	}
+}
+@media screen and (max-width: 1300px){
+	.wcpfc-section-left {
+    	float: none;
+    	width: 100%;
+	}
+	.dotstore_plugin_sidebar {
+    	width: 430px;
+    	margin-top: 30px;
+    	max-width: 100%;
+    	margin: 0 auto;
+    	display: table;
+    	text-align: center;
+    	padding-top: 30px;
+	}
+	#dotsstoremain .wcpfc-main-table.res-cl table.product-fee-table .wcpfc_select + span{
+		width: 85% !important;
+	}
+}
+
+@media screen and (max-width:	1200px){
+	#dotsstoremain th.titledesc {font-size: 12px !important; }
+	.wcpfc-main-table table.table-outer tr td {padding: 20px 10px !important; }
+	#dotsstoremain .fees-pricing-rules .fees_pricing_rules table.fees-table .heading th{text-align: center;}
+}
+
+@media screen and (max-width:	980px){
+	.dots-header-right .logo-detail strong{font-size: 28PX;}
+	.under-table table.table-outer tr td.ur-2 a{margin-bottom: 20px;}
+	.under-table table.table-outer tr td.ur-2 a{margin-bottom: 20px;}
+	.set h2{margin-top: 0;}
+	.set-right {width: 100%;float: left;text-align: left;margin-top: 20px;}
+	.search {float: none;}
+	.fees-pricing-rules .fees_pricing_rules .tabs {
+    	display: none;
+	}
+	.fees-pricing-rules .fees_pricing_rules .tab-content{
+		display: block;
+	}
+	.fees-pricing-rules .fees_pricing_rules .tab-content:before{
+		background-color: #ccc;
+    color: #fff;
+    border-top: 1px solid rgba(40,44,42,0.1);
+    margin: 0;
+    padding: 10px 20px;
+    display: block;
+    cursor: pointer;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    content: attr(data-title);
+    font-weight: 500;
+	}
+	.fees-pricing-rules .fees_pricing_rules .tab-content.current:before{
+		color: #0085ba;
+	}
+	.fees-pricing-rules .fees_pricing_rules .tab-content.current .tap-class{
+		display: block;
+	}
+	.fees-pricing-rules .fees_pricing_rules .tab-content .tap-class{
+		display: none;
+	}
+	#dotsstoremain .wcpfc-main-table.res-cl .advance_pricing_rule_box table tr.heading{
+		display: none;
+	}
+	#dotsstoremain .wcpfc-main-table.res-cl .advance_pricing_rule_box table td {
+    	display: block;
+    	width: 100% !important;
+    	margin: 0 auto;
+    	padding: 6px 0;
+    	text-align: center;
+	}
+	#dotsstoremain .wcpfc-main-table.res-cl .advance_pricing_rule_box table tr:last-child td {
+    	border-bottom: 0;
+    	margin: 0 !important;
+    	width: auto !important;
+	}
+	#dotsstoremain .wcpfc-main-table.res-cl .advance_pricing_rule_box table td input {
+    	width: 85%;
+    	margin: 0 auto;
+	}
+	#dotsstoremain .wcpfc-main-table.res-cl .advance_pricing_rule_box .wcpfc_select + span {
+    	width: 85% !important;
+	}
+	#dotsstoremain .wcpfc-main-table.res-cl .advance_pricing_rule_box table td a.delete-row{
+		padding: 3px 8px;
+    	border: 1px solid;
+    	display: inline-block;
+    	margin-bottom: 10px;
+	}
+	.fees-pricing-rules .fees_pricing_rules{
+		padding: 0;
+	}
+}
+@media screen and (max-width:	782px){
+	.wcpfc-main-table .product-fee-table tbody tr td input,.wcpfc-main-table .product-fee-table tbody tr td select {
+    	width: 85%;
+    	display: inline;
+	}
+	.wcpfc-main-table .product_cost_right_div {
+    	float: none;
+    	width: 100%;
+	}
+	.wcpfc-main-table table.table-outer tr td textarea {
+    	width: 85%;
+	}
+	table#tbl-product-fee tr th.titledesc,table#tbl-product-fee tr td{
+		display: block;
+		width: auto;
+	}
+	table#tbl-product-fee tr td select{
+		height: 40px !important;
+		width: 95% !important;
+	}
+	#dotsstoremain .wcpfc-main-table.res-cl table.product-fee-table .wcpfc_select + span {
+    	width: 95% !important;
+	}
+	#dotsstoremain .wcpfc-main-table.res-cl table.product-fee-table th{
+		padding: 20px 0px 20px 10px !important;
+	}
+	.wcpfc-main-table table.table-outer tr th select {
+    	width: 95% !important;
+	}
+}
+
+@media screen and (max-width:	768px){
+	.logo-main {display: block;width: 100%;box-sizing: border-box;}
+	.dots-header-right .logo-detail {width: 100%;margin-bottom: 20px;}
+	.dots-header-right .update-blog {float: left;margin-left: 20px;}
+	.menu-main ul li a{padding-left: 17px;padding-right: 17px;}
+	.wcpfc-main-table table.table-outer tr td.fr-2 a.ab {margin-top: 20px;}
+	.under-table table.table-outer tr td.ur-2 p.block.bl {margin-left: 26px;}
+	.under-table table.table-outer tr td.ur-2 input#submit{width: 27% !important;}
+	.foot-rihgt {float: left;margin-top: 20px;width: 100%;}
+	.under-table table.table-outer tr td.ur-2 select { width: 100%;	}
+	.set input#submit {width: 24% !important;}
+}	
+@media screen and (max-width:	650px){
+	.dotstore_plugin_sidebar{
+		width: 100%;
+	}
+	.wcpfc-main-table.res-cl form div h2 {
+    	display: block;
+    	margin-bottom: 10px;
+	}
+	.fees-pricing-rules .fees_pricing_rules .tab-content .tap-class .sub-title .tap a{
+		margin-left: 20px;
+	} 
+}
+@media screen and (max-width:	559px){
+	.dots-header-right {width: 100%;display: block;}
+	.dots-header-right .logo-detail strong {font-size: 24PX;}
+	.menu-main ul li {width: 100% !important;margin: 0 auto;text-align: center;}
+	.tap {width: 100%;overflow: auto;}
+	/*.tap table.table-outer.tap-cas {min-width: 640px;}*/
+	.wcpfc-main-table.none-blog {border-right: 1px solid #ddd;}
+	.wcpfc-main-table.res-cl table.table-outer tr td {font-size: 15px !important;padding: 20px 0px 20px 10px !important;display: block;width: 100%;box-sizing: border-box;}
+	.wcpfc-main-table.res-cl table.table-outer tr td.fr-1 {width: 100%;border-bottom: none;}
+	.wcpfc-main-table.res-cl td.fr-2 {border-top: none !important;}
+	.wcpfc-main-table table.table-outer tr td.fr-2 a.gb{margin-right: 0;}
+	.wcpfc-main-table.res-cl table.table-outer tr td.fr-2 a.cb{margin-top: 20px;}
+	.search {margin-top: 20px;}
+	.under-table table.table-outer tr td.ur-1 {width: 85%;border-bottom: none;}
+	.under-table table.table-outer tr td {width: 85%;display: block;}
+	.wcpfc-main-table table.table-outer tr td.fr-2 a{padding-right: 10px;padding-left: 0;}
+	.under-table table.table-outer tr td.ur-2 {    border-top: none;}
+
+	#dotsstoremain .sub-title a#fee-add-field {
+    	margin-left: 20px;
+    	display: block;
+    	width: 100px;
+	}
+	#dotsstoremain .sub-title .wocfc_match_type{
+		margin-top: 5px;
+		margin-bottom: 5px;
+	}
+}

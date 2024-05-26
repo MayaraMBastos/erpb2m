@@ -1,0 +1,20 @@
+05-10-2020 @ 13:40:14 - WC_Gateway_PPEC_Client::_request: remote request to https://api-3t.sandbox.paypal.com/nvp with params: Array
+(
+    [METHOD] => GetPalDetails
+    [VERSION] => 120.0
+    [USER] => sb-nqj43k1454098_api1.business.example.com
+    [PWD] => WQPNQDJL5QVW83H4
+    [SIGNATURE] => A8.1BBMOWZtftQpZ9KsPWaTIKap.ABP1vNX7S8bCcR0jWQGdsKC4tDMt
+)
+
+05-10-2020 @ 13:40:16 - WC_Gateway_PPEC_Client::_process_response: acknowleged response body: Array
+(
+    [PAL] => X4AEQNTBHJFVL
+    [LOCALE] => pt_BR
+    [TIMESTAMP] => 2020-05-10T16:40:17Z
+    [CORRELATIONID] => d6c74af61c405
+    [ACK] => Success
+    [VERSION] => 120.0
+    [BUILD] => 53802284
+)
+

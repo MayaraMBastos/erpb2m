@@ -1,0 +1,265 @@
+# Translation of Plugins - WooCommerce Parcelas com e sem Juros - Development (trunk) in Portuguese (Brazil)
+# This file is distributed under the same license as the Plugins - WooCommerce Parcelas com e sem Juros - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-03-26 14:58:31+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Plugins - WooCommerce Parcelas com e sem Juros - Development (trunk)\n"
+
+#. Plugin URI of the plugin
+msgid "//wordpress.org/plugins/woo-parcelas-com-e-sem-juros/"
+msgstr "//wordpress.org/plugins/woo-parcelas-com-e-sem-juros/"
+
+#: admin/html-settings-page.php:46
+msgid "Estilo"
+msgstr "Estilo"
+
+#. Author URI of the plugin
+msgid "https://www.atitudeti.com.br/"
+msgstr "https://www.atitudeti.com.br/"
+
+#. Author of the plugin
+msgid "Leonardo Robles"
+msgstr "Leonardo Robles"
+
+#. Description of the plugin
+msgid "Adiciona quantidade de parcelas e o valor de cada parcela com ou sem juros (PagSeguro ou Mercado Pago), nas páginas que listam todos os produtos e na página individual de cada produto."
+msgstr "Adiciona quantidade de parcelas e o valor de cada parcela com ou sem juros (PagSeguro ou Mercado Pago), nas páginas que listam todos os produtos e na página individual de cada produto."
+
+#. Plugin Name of the plugin
+msgid "WooCommerce Parcelas Com e Sem Juros"
+msgstr "WooCommerce Parcelas Com e Sem Juros"
+
+#: woo-parcelas-com-e-sem-juros.php:167
+msgid "Não é possível habilitar o plugin %s enquanto o %s não estiver instalado e ativado."
+msgstr "Não é possível habilitar o plugin %s enquanto o %s não estiver instalado e ativado."
+
+#: woo-parcelas-com-e-sem-juros.php:126
+msgid "Configurações"
+msgstr "Configurações"
+
+#: public/installments-calc.php:127 public/installments-calc.php:155
+#: public/installments-calc.php:183
+msgid "<span class=\"fswp_installment_prefix\">%s %sx de </span>"
+msgstr "<span class=\"fswp_installment_prefix\">%s %sx de </span>"
+
+#: public/installments-calc.php:118 public/installments-calc.php:146
+#: public/installments-calc.php:174
+msgid "<span class=\"fswp_installment_prefix\">%s %sx de</span> "
+msgstr "<span class=\"fswp_installment_prefix\">%s %sx de</span> "
+
+#: public/installments-calc.php:31 public/installments-calc.php:53
+#: public/installments-calc.php:75 public/installments-calc.php:91
+msgid "A partir de"
+msgstr "A partir de"
+
+#: public/class-woo-parcelas-com-e-sem-juros-public.php:153
+msgid "x de"
+msgstr "x de"
+
+#: admin/html-settings-page.php:81
+msgid "Estilo para pagamento à vista"
+msgstr "Estilo para pagamento à vista"
+
+#: admin/html-settings-page.php:57 admin/html-settings-page.php:70
+#: admin/html-settings-page.php:89 admin/html-settings-page.php:102
+msgid "Preço"
+msgstr "Preço"
+
+#: admin/html-settings-page.php:49
+msgid "Estilo para parcelamento"
+msgstr "Estilo para parcelamento"
+
+#: admin/html-settings-page.php:40
+msgid "Detalhe: caso a opção para pagamento à vista esteja habilitada, o preço à vista será inserido logo após o preço parcelado."
+msgstr "Detalhe: caso a opção para pagamento à vista esteja habilitada, o preço à vista será inserido logo após o preço parcelado."
+
+#: admin/html-settings-page.php:39
+msgid "Abaixo você pode mudar o local onde o <strong>preço parcelado</strong> aparece."
+msgstr "Abaixo você pode mudar o local onde o <strong>preço parcelado</strong> aparece."
+
+#: admin/html-settings-page.php:32
+msgid "Abaixo você pode definir a posição de alinhamento, das informações de parcela e pagamento à vista."
+msgstr "Abaixo você pode definir a posição de alinhamento, das informações de parcela e pagamento à vista."
+
+#: admin/html-settings-page.php:30
+msgid "Posição"
+msgstr "Posição"
+
+#: admin/html-settings-page.php:24
+msgid "Opções para pagamento à vista"
+msgstr "Opções para pagamento à vista"
+
+#: admin/html-settings-page.php:19
+msgid "Opções para parcelamento"
+msgstr "Opções para parcelamento"
+
+#: admin/html-settings-page.php:17
+msgid "Geral"
+msgstr "Geral"
+
+#: admin/class-woo-parcelas-com-e-sem-juros-settings.php:386
+#: admin/class-woo-parcelas-com-e-sem-juros-settings.php:401
+msgid "Alinhar à esquerda"
+msgstr "Alinhar à esquerda"
+
+#: admin/class-woo-parcelas-com-e-sem-juros-settings.php:385
+#: admin/class-woo-parcelas-com-e-sem-juros-settings.php:402
+msgid "Alinhar à direita"
+msgstr "Alinhar à direita"
+
+#: admin/class-woo-parcelas-com-e-sem-juros-settings.php:384
+#: admin/class-woo-parcelas-com-e-sem-juros-settings.php:403
+msgid "Centralizar"
+msgstr "Centralizar"
+
+#: admin/class-woo-parcelas-com-e-sem-juros-settings.php:355
+msgid "Defina a posição das parcelas, dentro da página do produto, e a prioridade dessa posição abaixo. Padrão: 1."
+msgstr "Defina a posição das parcelas, dentro da página do produto, e a prioridade dessa posição abaixo. Padrão: 1."
+
+#: admin/class-woo-parcelas-com-e-sem-juros-settings.php:342
+#: admin/class-woo-parcelas-com-e-sem-juros-settings.php:394
+#: admin/html-settings-page.php:65 admin/html-settings-page.php:97
+msgid "Página individual do produto"
+msgstr "Página individual do produto"
+
+#: admin/class-woo-parcelas-com-e-sem-juros-settings.php:336
+#: admin/class-woo-parcelas-com-e-sem-juros-settings.php:371
+msgid "Seu tema e/ou outros plugins podem disputar uma mesma posição. Use este campo para definir a prioridade para a posição das parcelas. Quanto maior o número, maior a prioridade. Padrão: 15."
+msgstr "Seu tema e/ou outros plugins podem disputar uma mesma posição. Use este campo para definir a prioridade para a posição das parcelas. Quanto maior o número, maior a prioridade. Padrão: 15."
+
+#: admin/class-woo-parcelas-com-e-sem-juros-settings.php:327
+#: admin/class-woo-parcelas-com-e-sem-juros-settings.php:362
+msgid "Prioridade"
+msgstr "Prioridade"
+
+#: admin/class-woo-parcelas-com-e-sem-juros-settings.php:320
+msgid "Defina a posição das parcelas, dentro das páginas que listam os produtos, e a prioridade dessa posição abaixo. Padrão: 1."
+msgstr "Defina a posição das parcelas, dentro das páginas que listam os produtos, e a prioridade dessa posição abaixo. Padrão: 1."
+
+#: admin/class-woo-parcelas-com-e-sem-juros-settings.php:310
+#: admin/class-woo-parcelas-com-e-sem-juros-settings.php:377
+#: admin/html-settings-page.php:52 admin/html-settings-page.php:84
+msgid "Página que lista os produtos"
+msgstr "Página que lista os produtos"
+
+#: admin/class-woo-parcelas-com-e-sem-juros-settings.php:302
+msgid "Escreva o texto que deve vir logo depois do preço à vista. Ex.: à vista ou no boleto."
+msgstr "Escreva o texto que deve vir logo depois do preço à vista. Ex.: à vista ou no boleto."
+
+#: admin/class-woo-parcelas-com-e-sem-juros-settings.php:287
+msgid "Quer descontar uma porcentagem ou um valor fixo?"
+msgstr "Quer descontar uma porcentagem ou um valor fixo?"
+
+#: admin/class-woo-parcelas-com-e-sem-juros-settings.php:277
+msgid "Tipo do desconto"
+msgstr "Tipo do desconto"
+
+#: admin/class-woo-parcelas-com-e-sem-juros-settings.php:269
+msgid "Use apenas separador decimal, não use separador de milhar. Ex.: 4 ou 4,5."
+msgstr "Use apenas separador decimal, não use separador de milhar. Ex.: 4 ou 4,5."
+
+#: admin/class-woo-parcelas-com-e-sem-juros-settings.php:261
+msgid "Valor do desconto"
+msgstr "Valor do desconto"
+
+#: admin/class-woo-parcelas-com-e-sem-juros-settings.php:253
+msgid "Escreva o texto que deve vir logo antes do preço à vista. Ex.: ou"
+msgstr "Escreva o texto que deve vir logo antes do preço à vista. Ex.: ou"
+
+#: admin/class-woo-parcelas-com-e-sem-juros-settings.php:225
+msgid "Caso o preço de cada parcela tenha um valor mínimo insira-o aqui. Ex.: 5 ou 5,95.<br />Use apenas separador decimal, não use separador de milhar."
+msgstr "Caso o preço de cada parcela tenha um valor mínimo insira-o aqui. Ex.: 5 ou 5,95.<br />Use apenas separador decimal, não use separador de milhar."
+
+#: admin/class-woo-parcelas-com-e-sem-juros-settings.php:216
+msgid "Valor m&iacute;nimo de cada parcela"
+msgstr "Valor m&iacute;nimo de cada parcela"
+
+#: admin/class-woo-parcelas-com-e-sem-juros-settings.php:209
+msgid "Escreva o texto que deve vir logo depois do pre&ccedil;o. Ex.: sem juros ou s/ juros"
+msgstr "Escreva o texto que deve vir logo depois do pre&ccedil;o. Ex.: sem juros ou s/ juros"
+
+#: admin/class-woo-parcelas-com-e-sem-juros-settings.php:200
+#: admin/class-woo-parcelas-com-e-sem-juros-settings.php:294
+#: admin/html-settings-page.php:59 admin/html-settings-page.php:72
+#: admin/html-settings-page.php:91 admin/html-settings-page.php:104
+msgid "Sufixo"
+msgstr "Sufixo"
+
+#: admin/class-woo-parcelas-com-e-sem-juros-settings.php:194
+msgid "Insira a quantidade de parcelas. Valor m&iacute;nimo: 2."
+msgstr "Insira a quantidade de parcelas. Valor m&iacute;nimo: 2."
+
+#: admin/class-woo-parcelas-com-e-sem-juros-settings.php:185
+msgid "Quantidade de parcelas"
+msgstr "Quantidade de parcelas"
+
+#: admin/class-woo-parcelas-com-e-sem-juros-settings.php:178
+msgid "Escreva o texto que deve vir logo antes da quantidade. Ex.: Em at&eacute; ou Parcele em."
+msgstr "Escreva o texto que deve vir logo antes da quantidade. Ex.: Em at&eacute; ou Parcele em."
+
+#: admin/class-woo-parcelas-com-e-sem-juros-settings.php:169
+#: admin/class-woo-parcelas-com-e-sem-juros-settings.php:245
+#: admin/html-settings-page.php:55 admin/html-settings-page.php:68
+#: admin/html-settings-page.php:87 admin/html-settings-page.php:100
+msgid "Prefixo"
+msgstr "Prefixo"
+
+#: admin/class-woo-parcelas-com-e-sem-juros-settings.php:163
+#: admin/class-woo-parcelas-com-e-sem-juros-settings.php:239
+msgid "Marque para ativar."
+msgstr "Marque para ativar."
+
+#: admin/class-woo-parcelas-com-e-sem-juros-settings.php:156
+#: admin/class-woo-parcelas-com-e-sem-juros-settings.php:232
+msgid "Habilitar"
+msgstr "Habilitar"
+
+#: admin/class-woo-parcelas-com-e-sem-juros-settings.php:149
+msgid "Selecione o método de pagamento que você utiliza em sua loja para fazer o calculo das parcelas."
+msgstr "Selecione o método de pagamento que você utiliza em sua loja para fazer o calculo das parcelas."
+
+#: admin/class-woo-parcelas-com-e-sem-juros-settings.php:138
+msgid "Método de Pagamento"
+msgstr "Método de Pagamento"
+
+#: admin/class-woo-parcelas-com-e-sem-juros-settings.php:117
+msgid "Parcelas"
+msgstr "Parcelas"
+
+#: admin/class-woo-parcelas-com-e-sem-juros-settings.php:116
+msgid "WooCommerce Parcelas com e sem Juros"
+msgstr "WooCommerce Parcelas com e sem Juros"
+
+#: admin/class-woo-parcelas-com-e-sem-juros-settings.php:86
+msgid "Ex.: 18px ou 1.2em"
+msgstr "Ex.: 18px ou 1.2em"
+
+#: admin/class-woo-parcelas-com-e-sem-juros-settings.php:84
+msgid "Tamanho: "
+msgstr "Tamanho: "
+
+#: admin/class-woo-parcelas-com-e-sem-juros-settings.php:68
+msgid "Peso: "
+msgstr "Peso: "
+
+#: admin/class-woo-parcelas-com-e-sem-juros-settings.php:63
+msgid "Cor: "
+msgstr "Cor: "
+
+#: admin/class-woo-parcelas-com-e-sem-juros-meta-box.php:63
+msgid "Desativar preço parcelado para este produto"
+msgstr "Desativar preço parcelado para este produto"
+
+#: admin/class-woo-parcelas-com-e-sem-juros-meta-box.php:62
+msgid "Desativar preço à vista para este produto"
+msgstr "Desativar preço à vista para este produto"
+
+#: admin/class-woo-parcelas-com-e-sem-juros-meta-box.php:55
+msgid "Parcelamento e pagamento à vista"
+msgstr "Parcelamento e pagamento à vista"

@@ -1,0 +1,136 @@
+04-16-2020 @ 14:17:38 - WC_Gateway_PPEC_Client::_request: remote request to https://api-3t.sandbox.paypal.com/nvp with params: Array
+(
+    [LOGOIMG] => 
+    [HDRIMG] => 
+    [PAGESTYLE] => 
+    [BRANDNAME] => B2M Tecnologia em Gestão e Marketing Digital
+    [RETURNURL] => http://localhost/erpb2m/finalizar-compra/?woo-paypal-return=true
+    [CANCELURL] => http://localhost/erpb2m/carrinho/?woo-paypal-cancel=true
+    [ADDROVERRIDE] => 1
+    [LANDINGPAGE] => Login
+    [SOLUTIONTYPE] => Sole
+    [PAYMENTREQUEST_0_PAYMENTACTION] => sale
+    [PAYMENTREQUEST_0_INSURANCEAMT] => 0
+    [PAYMENTREQUEST_0_HANDLINGAMT] => 0
+    [PAYMENTREQUEST_0_CUSTOM] => 
+    [PAYMENTREQUEST_0_INVNUM] => 
+    [PAYMENTREQUEST_0_CURRENCYCODE] => BRL
+    [PAYMENTREQUEST_0_AMT] => 979.5
+    [PAYMENTREQUEST_0_ITEMAMT] => 979.5
+    [PAYMENTREQUEST_0_SHIPPINGAMT] => 0
+    [PAYMENTREQUEST_0_TAXAMT] => 0
+    [PAYMENTREQUEST_0_SHIPDISCAMT] => 0
+    [NOSHIPPING] => 1
+    [EMAIL] => maybastos2010@hotmail.com
+    [PAYMENTREQUEST_0_SHIPTONAME] => Mayara Bastos
+    [PAYMENTREQUEST_0_SHIPTOSTREET] => Rua fulano
+    [PAYMENTREQUEST_0_SHIPTOSTREET2] => 
+    [PAYMENTREQUEST_0_SHIPTOCITY] => Pato Branco
+    [PAYMENTREQUEST_0_SHIPTOSTATE] => PR
+    [PAYMENTREQUEST_0_SHIPTOZIP] => 85502-120
+    [PAYMENTREQUEST_0_SHIPTOCOUNTRYCODE] => BR
+    [PAYMENTREQUEST_0_SHIPTOPHONENUM] => (68) 0880-1995
+    [L_PAYMENTREQUEST_0_NAME0] => Pacote Lite - 8 Módulos - 1 Usuário
+    [L_PAYMENTREQUEST_0_DESC0] => 
+    [L_PAYMENTREQUEST_0_QTY0] => 1
+    [L_PAYMENTREQUEST_0_AMT0] => 179.5
+    [L_PAYMENTREQUEST_0_NAME1] => Taxa de Implementação
+    [L_PAYMENTREQUEST_0_DESC1] => 
+    [L_PAYMENTREQUEST_0_QTY1] => 1
+    [L_PAYMENTREQUEST_0_AMT1] => 800
+    [METHOD] => SetExpressCheckout
+    [VERSION] => 120.0
+    [USER] => sb-nqj43k1454098_api1.business.example.com
+    [PWD] => WQPNQDJL5QVW83H4
+    [SIGNATURE] => A8.1BBMOWZtftQpZ9KsPWaTIKap.ABP1vNX7S8bCcR0jWQGdsKC4tDMt
+)
+
+04-16-2020 @ 14:17:42 - WC_Gateway_PPEC_Client::_process_response: acknowleged response body: Array
+(
+    [TOKEN] => EC-06G60296LK7069714
+    [TIMESTAMP] => 2020-04-16T17:17:42Z
+    [CORRELATIONID] => 440209fb525ce
+    [ACK] => Success
+    [VERSION] => 120.0
+    [BUILD] => 54449905
+)
+
+04-16-2020 @ 19:09:18 - WC_Gateway_PPEC_Client::_request: remote request to https://api-3t.sandbox.paypal.com/nvp with params: Array
+(
+    [TRANSACTIONID] => 0P587204R14974200
+    [METHOD] => GetTransactionDetails
+    [VERSION] => 120.0
+    [USER] => sb-nqj43k1454098_api1.business.example.com
+    [PWD] => WQPNQDJL5QVW83H4
+    [SIGNATURE] => A8.1BBMOWZtftQpZ9KsPWaTIKap.ABP1vNX7S8bCcR0jWQGdsKC4tDMt
+)
+
+04-16-2020 @ 19:09:27 - WC_Gateway_PPEC_Client::_process_response: acknowleged response body: Array
+(
+    [RECEIVERBUSINESS] => sb-nqj43k1454098@business.example.com
+    [RECEIVEREMAIL] => sb-nqj43k1454098@business.example.com
+    [RECEIVERID] => X4AEQNTBHJFVL
+    [EMAIL] => sb-vqaex1453941@personal.example.com
+    [PAYERID] => 2VP6YEZ2LF79W
+    [PAYERSTATUS] => verified
+    [COUNTRYCODE] => BR
+    [SHIPTONAME] => John Doe
+    [SHIPTOSTREET] => Rua fulano
+    [SHIPTOCITY] => Pato Branco
+    [SHIPTOSTATE] => PR
+    [SHIPTOCOUNTRYCODE] => BR
+    [SHIPTOCOUNTRYNAME] => Brazil
+    [SHIPTOZIP] => 85502-120
+    [ADDRESSOWNER] => PayPal
+    [ADDRESSSTATUS] => Confirmed
+    [SHIPTOPHONENUM] => 680-319-9511
+    [INVNUM] => WC-1544
+    [CUSTOM] => {"order_id":1544,"order_number":"1544","order_key":"wc_order_gMcYe0wmjeA02"}
+    [SALESTAX] => 0.00
+    [INSURANCEAMOUNT] => 0.00
+    [GIFTRECEIPT] => 0
+    [TIMESTAMP] => 2020-04-16T22:09:27Z
+    [CORRELATIONID] => 6ac6b8e1a3092
+    [ACK] => Success
+    [VERSION] => 120.0
+    [BUILD] => 53802284
+    [FIRSTNAME] => John
+    [LASTNAME] => Doe
+    [TRANSACTIONID] => 0P587204R14974200
+    [TRANSACTIONTYPE] => cart
+    [PAYMENTTYPE] => instant
+    [ORDERTIME] => 2020-04-15T00:04:51Z
+    [AMT] => 1318.00
+    [FEEAMT] => 45.21
+    [TAXAMT] => 0.00
+    [SHIPPINGAMT] => 0.00
+    [HANDLINGAMT] => 0.00
+    [CURRENCYCODE] => BRL
+    [PAYMENTSTATUS] => Completed
+    [PENDINGREASON] => None
+    [REASONCODE] => None
+    [SHIPPINGMETHOD] => Padrão
+    [PROTECTIONELIGIBILITY] => Eligible
+    [PROTECTIONELIGIBILITYTYPE] => ItemNotReceivedEligible,UnauthorizedPaymentEligible
+    [L_NAME0] => Pacote Premium - 18 Módulos - 4 Usuários
+    [L_NAME1] => Implementação e Configuração do ERP B2M
+    [L_QTY0] => 1
+    [L_QTY1] => 1
+    [L_TAXAMT0] => 0.00
+    [L_TAXAMT1] => 0.00
+    [L_SHIPPINGAMT0] => 0.00
+    [L_SHIPPINGAMT1] => 0.00
+    [L_HANDLINGAMT0] => 0.00
+    [L_HANDLINGAMT1] => 0.00
+    [L_CURRENCYCODE0] => BRL
+    [L_CURRENCYCODE1] => BRL
+    [L_TAXABLE0] => false
+    [L_TAXABLE1] => false
+    [L_TAXRATE0] => 0.0
+    [L_TAXRATE1] => 0.0
+    [L_AMT0] => 518.00
+    [L_AMT1] => 800.00
+    [INSURANCEOPTIONSELECTED] => 0
+    [SHIPPINGOPTIONISDEFAULT] => 0
+)
+

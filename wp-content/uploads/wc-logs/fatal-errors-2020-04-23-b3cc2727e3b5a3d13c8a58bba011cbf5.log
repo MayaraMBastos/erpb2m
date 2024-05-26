@@ -1,0 +1,26 @@
+2020-04-23T00:47:32+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-includes\class-wp-customize-manager.php, na linha 23
+
+2020-04-23T00:52:51+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\ocean-extra\includes\metabox\butterbean\inc\settings\class-setting-array.php, na linha 18
+
+2020-04-23T02:47:15+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-includes\class-phpmailer.php, na linha 28
+
+2020-04-23T02:47:36+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\elementor\includes\autoloader.php, na linha 267
+
+2020-04-23T02:48:03+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\ocean-extra\includes\panel\demos.php, na linha 11
+
+2020-04-23T02:48:09+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-post-types.php, na linha 11
+
+2020-04-23T02:48:12+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-assets.php, na linha 11
+
+2020-04-23T02:48:35+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-includes\wp-db.php, na linha 2030
+
+2020-04-23T02:48:37+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-admin\includes\media.php, na linha 16
+
+2020-04-23T02:49:10+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-includes\class-wp-theme.php, na linha 1194
+
+2020-04-23T22:52:51+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-includes\Requests\Transport\cURL.php, na linha 463
+
+2020-04-23T23:05:42+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce-services\classes\class-wc-connect-service-schemas-store.php, na linha 3
+
+2020-04-23T23:05:43+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce-services\classes\class-wc-connect-label-reports.php, na linha 3
+

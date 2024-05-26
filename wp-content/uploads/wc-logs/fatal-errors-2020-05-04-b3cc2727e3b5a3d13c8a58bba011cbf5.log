@@ -1,0 +1,271 @@
+2020-05-04T16:06:02+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\gutenberg\build\block-library\blocks\social-link.php, na linha 15
+
+2020-05-04T16:07:33+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-admin\includes\class-wp-filesystem-direct.php, na linha 81
+
+2020-05-04T16:17:43+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-includes\Requests\Transport\cURL.php, na linha 163
+
+2020-05-04T16:35:35+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-includes\Requests\Transport\cURL.php, na linha 163
+
+2020-05-04T17:52:04+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-includes\Requests\Transport\cURL.php, na linha 163
+
+2020-05-04T19:45:41+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php:158
+Stack trace:
+#0 C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php(245): YITH_WC_Subscription->is_subscription(false)
+#1 C:\xampp\htdocs\erpb2m\wp-includes\class-wp-hook.php(288): YITH_WC_Subscription->order_formatted_line_subtotal('<span class="wo...', Object(WC_Order_Item_Product), Object(WC_Order))
+#2 C:\xampp\htdocs\erpb2m\wp-includes\plugin.php(206): WP_Hook->apply_filters('<span class="wo...', Array)
+#3 C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-order.php(1890): apply_filters('woocommerce_ord...', '<span class="wo...', Object(WC_Order_Item_Product), Object(WC_Order))
+#4 C:\xampp\htdocs\erpb2m\wp-content\plugins\kadence-woocommerce-email-designer\templates\woo\emails\email-order-items.php(176): WC_Abstract_Order->get_formatted_l, em C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php, na linha 158
+
+2020-05-04T19:50:38+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce-checkout-manager\includes\model\class-wooccm-field.php, na linha 3
+
+2020-05-04T20:18:14+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php:158
+Stack trace:
+#0 C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php(245): YITH_WC_Subscription->is_subscription(false)
+#1 C:\xampp\htdocs\erpb2m\wp-includes\class-wp-hook.php(288): YITH_WC_Subscription->order_formatted_line_subtotal('<span class="wo...', Object(WC_Order_Item_Product), Object(WC_Order))
+#2 C:\xampp\htdocs\erpb2m\wp-includes\plugin.php(206): WP_Hook->apply_filters('<span class="wo...', Array)
+#3 C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-order.php(1890): apply_filters('woocommerce_ord...', '<span class="wo...', Object(WC_Order_Item_Product), Object(WC_Order))
+#4 C:\xampp\htdocs\erpb2m\wp-content\plugins\kadence-woocommerce-email-designer\templates\woo\emails\email-order-items.php(176): WC_Abstract_Order->get_formatted_l, em C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php, na linha 158
+
+2020-05-04T20:19:23+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php:158
+Stack trace:
+#0 C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php(245): YITH_WC_Subscription->is_subscription(false)
+#1 C:\xampp\htdocs\erpb2m\wp-includes\class-wp-hook.php(288): YITH_WC_Subscription->order_formatted_line_subtotal('<span class="wo...', Object(WC_Order_Item_Product), Object(WC_Order))
+#2 C:\xampp\htdocs\erpb2m\wp-includes\plugin.php(206): WP_Hook->apply_filters('<span class="wo...', Array)
+#3 C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-order.php(1890): apply_filters('woocommerce_ord...', '<span class="wo...', Object(WC_Order_Item_Product), Object(WC_Order))
+#4 C:\xampp\htdocs\erpb2m\wp-content\plugins\kadence-woocommerce-email-designer\templates\woo\emails\email-order-items.php(176): WC_Abstract_Order->get_formatted_l, em C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php, na linha 158
+
+2020-05-04T20:21:41+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php:158
+Stack trace:
+#0 C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php(245): YITH_WC_Subscription->is_subscription(false)
+#1 C:\xampp\htdocs\erpb2m\wp-includes\class-wp-hook.php(288): YITH_WC_Subscription->order_formatted_line_subtotal('<span class="wo...', Object(WC_Order_Item_Product), Object(WC_Order))
+#2 C:\xampp\htdocs\erpb2m\wp-includes\plugin.php(206): WP_Hook->apply_filters('<span class="wo...', Array)
+#3 C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-order.php(1890): apply_filters('woocommerce_ord...', '<span class="wo...', Object(WC_Order_Item_Product), Object(WC_Order))
+#4 C:\xampp\htdocs\erpb2m\wp-content\plugins\kadence-woocommerce-email-designer\templates\woo\emails\email-order-items.php(176): WC_Abstract_Order->get_formatted_l, em C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php, na linha 158
+
+2020-05-04T20:34:53+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php:158
+Stack trace:
+#0 C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php(245): YITH_WC_Subscription->is_subscription(false)
+#1 C:\xampp\htdocs\erpb2m\wp-includes\class-wp-hook.php(288): YITH_WC_Subscription->order_formatted_line_subtotal('<span class="wo...', Object(WC_Order_Item_Product), Object(WC_Order))
+#2 C:\xampp\htdocs\erpb2m\wp-includes\plugin.php(206): WP_Hook->apply_filters('<span class="wo...', Array)
+#3 C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-order.php(1890): apply_filters('woocommerce_ord...', '<span class="wo...', Object(WC_Order_Item_Product), Object(WC_Order))
+#4 C:\xampp\htdocs\erpb2m\wp-content\plugins\kadence-woocommerce-email-designer\templates\woo\emails\email-order-items.php(176): WC_Abstract_Order->get_formatted_l, em C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php, na linha 158
+
+2020-05-04T20:34:53+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php:158
+Stack trace:
+#0 C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php(245): YITH_WC_Subscription->is_subscription(false)
+#1 C:\xampp\htdocs\erpb2m\wp-includes\class-wp-hook.php(288): YITH_WC_Subscription->order_formatted_line_subtotal('<span class="wo...', Object(WC_Order_Item_Product), Object(WC_Order))
+#2 C:\xampp\htdocs\erpb2m\wp-includes\plugin.php(206): WP_Hook->apply_filters('<span class="wo...', Array)
+#3 C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-order.php(1890): apply_filters('woocommerce_ord...', '<span class="wo...', Object(WC_Order_Item_Product), Object(WC_Order))
+#4 C:\xampp\htdocs\erpb2m\wp-content\plugins\kadence-woocommerce-email-designer\templates\woo\emails\email-order-items.php(176): WC_Abstract_Order->get_formatted_l, em C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php, na linha 158
+
+2020-05-04T20:34:57+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php:158
+Stack trace:
+#0 C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php(245): YITH_WC_Subscription->is_subscription(false)
+#1 C:\xampp\htdocs\erpb2m\wp-includes\class-wp-hook.php(288): YITH_WC_Subscription->order_formatted_line_subtotal('<span class="wo...', Object(WC_Order_Item_Product), Object(WC_Order))
+#2 C:\xampp\htdocs\erpb2m\wp-includes\plugin.php(206): WP_Hook->apply_filters('<span class="wo...', Array)
+#3 C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-order.php(1890): apply_filters('woocommerce_ord...', '<span class="wo...', Object(WC_Order_Item_Product), Object(WC_Order))
+#4 C:\xampp\htdocs\erpb2m\wp-content\plugins\kadence-woocommerce-email-designer\templates\woo\emails\email-order-items.php(176): WC_Abstract_Order->get_formatted_l, em C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php, na linha 158
+
+2020-05-04T20:35:02+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php:158
+Stack trace:
+#0 C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php(245): YITH_WC_Subscription->is_subscription(false)
+#1 C:\xampp\htdocs\erpb2m\wp-includes\class-wp-hook.php(288): YITH_WC_Subscription->order_formatted_line_subtotal('<span class="wo...', Object(WC_Order_Item_Product), Object(WC_Order))
+#2 C:\xampp\htdocs\erpb2m\wp-includes\plugin.php(206): WP_Hook->apply_filters('<span class="wo...', Array)
+#3 C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-order.php(1890): apply_filters('woocommerce_ord...', '<span class="wo...', Object(WC_Order_Item_Product), Object(WC_Order))
+#4 C:\xampp\htdocs\erpb2m\wp-content\plugins\kadence-woocommerce-email-designer\templates\woo\emails\email-order-items.php(176): WC_Abstract_Order->get_formatted_l, em C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php, na linha 158
+
+2020-05-04T20:35:07+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php:158
+Stack trace:
+#0 C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php(245): YITH_WC_Subscription->is_subscription(false)
+#1 C:\xampp\htdocs\erpb2m\wp-includes\class-wp-hook.php(288): YITH_WC_Subscription->order_formatted_line_subtotal('<span class="wo...', Object(WC_Order_Item_Product), Object(WC_Order))
+#2 C:\xampp\htdocs\erpb2m\wp-includes\plugin.php(206): WP_Hook->apply_filters('<span class="wo...', Array)
+#3 C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-order.php(1890): apply_filters('woocommerce_ord...', '<span class="wo...', Object(WC_Order_Item_Product), Object(WC_Order))
+#4 C:\xampp\htdocs\erpb2m\wp-content\plugins\kadence-woocommerce-email-designer\templates\woo\emails\email-order-items.php(176): WC_Abstract_Order->get_formatted_l, em C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php, na linha 158
+
+2020-05-04T20:35:07+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php:158
+Stack trace:
+#0 C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php(245): YITH_WC_Subscription->is_subscription(false)
+#1 C:\xampp\htdocs\erpb2m\wp-includes\class-wp-hook.php(288): YITH_WC_Subscription->order_formatted_line_subtotal('<span class="wo...', Object(WC_Order_Item_Product), Object(WC_Order))
+#2 C:\xampp\htdocs\erpb2m\wp-includes\plugin.php(206): WP_Hook->apply_filters('<span class="wo...', Array)
+#3 C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-order.php(1890): apply_filters('woocommerce_ord...', '<span class="wo...', Object(WC_Order_Item_Product), Object(WC_Order))
+#4 C:\xampp\htdocs\erpb2m\wp-content\plugins\kadence-woocommerce-email-designer\templates\woo\emails\email-order-items.php(176): WC_Abstract_Order->get_formatted_l, em C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php, na linha 158
+
+2020-05-04T20:35:40+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php:158
+Stack trace:
+#0 C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php(245): YITH_WC_Subscription->is_subscription(false)
+#1 C:\xampp\htdocs\erpb2m\wp-includes\class-wp-hook.php(288): YITH_WC_Subscription->order_formatted_line_subtotal('<span class="wo...', Object(WC_Order_Item_Product), Object(WC_Order))
+#2 C:\xampp\htdocs\erpb2m\wp-includes\plugin.php(206): WP_Hook->apply_filters('<span class="wo...', Array)
+#3 C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-order.php(1890): apply_filters('woocommerce_ord...', '<span class="wo...', Object(WC_Order_Item_Product), Object(WC_Order))
+#4 C:\xampp\htdocs\erpb2m\wp-content\plugins\kadence-woocommerce-email-designer\templates\woo\emails\email-order-items.php(176): WC_Abstract_Order->get_formatted_l, em C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php, na linha 158
+
+2020-05-04T20:35:40+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php:158
+Stack trace:
+#0 C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php(245): YITH_WC_Subscription->is_subscription(false)
+#1 C:\xampp\htdocs\erpb2m\wp-includes\class-wp-hook.php(288): YITH_WC_Subscription->order_formatted_line_subtotal('<span class="wo...', Object(WC_Order_Item_Product), Object(WC_Order))
+#2 C:\xampp\htdocs\erpb2m\wp-includes\plugin.php(206): WP_Hook->apply_filters('<span class="wo...', Array)
+#3 C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-order.php(1890): apply_filters('woocommerce_ord...', '<span class="wo...', Object(WC_Order_Item_Product), Object(WC_Order))
+#4 C:\xampp\htdocs\erpb2m\wp-content\plugins\kadence-woocommerce-email-designer\templates\woo\emails\email-order-items.php(176): WC_Abstract_Order->get_formatted_l, em C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php, na linha 158
+
+2020-05-04T20:35:40+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php:158
+Stack trace:
+#0 C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php(245): YITH_WC_Subscription->is_subscription(false)
+#1 C:\xampp\htdocs\erpb2m\wp-includes\class-wp-hook.php(288): YITH_WC_Subscription->order_formatted_line_subtotal('<span class="wo...', Object(WC_Order_Item_Product), Object(WC_Order))
+#2 C:\xampp\htdocs\erpb2m\wp-includes\plugin.php(206): WP_Hook->apply_filters('<span class="wo...', Array)
+#3 C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-order.php(1890): apply_filters('woocommerce_ord...', '<span class="wo...', Object(WC_Order_Item_Product), Object(WC_Order))
+#4 C:\xampp\htdocs\erpb2m\wp-content\plugins\kadence-woocommerce-email-designer\templates\woo\emails\email-order-items.php(176): WC_Abstract_Order->get_formatted_l, em C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php, na linha 158
+
+2020-05-04T20:36:08+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php:158
+Stack trace:
+#0 C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php(245): YITH_WC_Subscription->is_subscription(false)
+#1 C:\xampp\htdocs\erpb2m\wp-includes\class-wp-hook.php(288): YITH_WC_Subscription->order_formatted_line_subtotal('<span class="wo...', Object(WC_Order_Item_Product), Object(WC_Order))
+#2 C:\xampp\htdocs\erpb2m\wp-includes\plugin.php(206): WP_Hook->apply_filters('<span class="wo...', Array)
+#3 C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-order.php(1890): apply_filters('woocommerce_ord...', '<span class="wo...', Object(WC_Order_Item_Product), Object(WC_Order))
+#4 C:\xampp\htdocs\erpb2m\wp-content\plugins\kadence-woocommerce-email-designer\templates\woo\emails\email-order-items.php(176): WC_Abstract_Order->get_formatted_l, em C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php, na linha 158
+
+2020-05-04T20:37:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\themes\oceanwp\inc\third\class-buddypress.php, na linha 9
+
+2020-05-04T20:37:06+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\themes\oceanwp\inc\third\class-lifterlms.php, na linha 9
+
+2020-05-04T20:37:06+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\themes\oceanwp\inc\third\class-social-login.php, na linha 9
+
+2020-05-04T20:37:06+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\themes\oceanwp\inc\third\class-social-login.php, na linha 9
+
+2020-05-04T20:37:47+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\elementor\core\common\modules\connect\apps\base-user-app.php, na linha 4
+
+2020-05-04T20:38:32+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php:158
+Stack trace:
+#0 C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php(245): YITH_WC_Subscription->is_subscription(false)
+#1 C:\xampp\htdocs\erpb2m\wp-includes\class-wp-hook.php(288): YITH_WC_Subscription->order_formatted_line_subtotal('<span class="wo...', Object(WC_Order_Item_Product), Object(WC_Order))
+#2 C:\xampp\htdocs\erpb2m\wp-includes\plugin.php(206): WP_Hook->apply_filters('<span class="wo...', Array)
+#3 C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-order.php(1890): apply_filters('woocommerce_ord...', '<span class="wo...', Object(WC_Order_Item_Product), Object(WC_Order))
+#4 C:\xampp\htdocs\erpb2m\wp-content\plugins\kadence-woocommerce-email-designer\templates\woo\emails\email-order-items.php(176): WC_Abstract_Order->get_formatted_l, em C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php, na linha 158
+
+2020-05-04T20:39:47+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\themes\oceanwp\inc\customizer\sanitization-callbacks.php, na linha 8
+
+2020-05-04T20:41:42+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php:158
+Stack trace:
+#0 C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php(245): YITH_WC_Subscription->is_subscription(false)
+#1 C:\xampp\htdocs\erpb2m\wp-includes\class-wp-hook.php(288): YITH_WC_Subscription->order_formatted_line_subtotal('<span class="wo...', Object(WC_Order_Item_Product), Object(WC_Order))
+#2 C:\xampp\htdocs\erpb2m\wp-includes\plugin.php(206): WP_Hook->apply_filters('<span class="wo...', Array)
+#3 C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-order.php(1890): apply_filters('woocommerce_ord...', '<span class="wo...', Object(WC_Order_Item_Product), Object(WC_Order))
+#4 C:\xampp\htdocs\erpb2m\wp-content\plugins\kadence-woocommerce-email-designer\templates\woo\emails\email-order-items.php(176): WC_Abstract_Order->get_formatted_l, em C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php, na linha 158
+
+2020-05-04T20:44:14+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php:158
+Stack trace:
+#0 C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php(245): YITH_WC_Subscription->is_subscription(false)
+#1 C:\xampp\htdocs\erpb2m\wp-includes\class-wp-hook.php(288): YITH_WC_Subscription->order_formatted_line_subtotal('<span class="wo...', Object(WC_Order_Item_Product), Object(WC_Order))
+#2 C:\xampp\htdocs\erpb2m\wp-includes\plugin.php(206): WP_Hook->apply_filters('<span class="wo...', Array)
+#3 C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-order.php(1890): apply_filters('woocommerce_ord...', '<span class="wo...', Object(WC_Order_Item_Product), Object(WC_Order))
+#4 C:\xampp\htdocs\erpb2m\wp-content\plugins\kadence-woocommerce-email-designer\templates\woo\emails\email-order-items.php(176): WC_Abstract_Order->get_formatted_l, em C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php, na linha 158
+
+2020-05-04T20:44:20+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php:158
+Stack trace:
+#0 C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php(245): YITH_WC_Subscription->is_subscription(false)
+#1 C:\xampp\htdocs\erpb2m\wp-includes\class-wp-hook.php(288): YITH_WC_Subscription->order_formatted_line_subtotal('<span class="wo...', Object(WC_Order_Item_Product), Object(WC_Order))
+#2 C:\xampp\htdocs\erpb2m\wp-includes\plugin.php(206): WP_Hook->apply_filters('<span class="wo...', Array)
+#3 C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-order.php(1890): apply_filters('woocommerce_ord...', '<span class="wo...', Object(WC_Order_Item_Product), Object(WC_Order))
+#4 C:\xampp\htdocs\erpb2m\wp-content\plugins\kadence-woocommerce-email-designer\templates\woo\emails\email-order-items.php(176): WC_Abstract_Order->get_formatted_l, em C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php, na linha 158
+
+2020-05-04T20:57:10+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce\packages\woocommerce-rest-api\src\Controllers\Version1\class-wc-rest-orders-v1-controller.php, na linha 13
+
+2020-05-04T20:58:04+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\contact-form-7\modules\file.php, na linha 8
+
+2020-05-04T20:58:04+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\contact-form-7\modules\flamingo.php, na linha 7
+
+2020-05-04T20:58:04+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\contact-form-7\settings.php, na linha 61
+
+a 7
+
+2020-05-04T20:58:49+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php:158
+Stack trace:
+#0 C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php(245): YITH_WC_Subscription->is_subscription(false)
+#1 C:\xampp\htdocs\erpb2m\wp-includes\class-wp-hook.php(288): YITH_WC_Subscription->order_formatted_line_subtotal('<span class="wo...', Object(WC_Order_Item_Product), Object(WC_Order))
+#2 C:\xampp\htdocs\erpb2m\wp-includes\plugin.php(206): WP_Hook->apply_filters('<span class="wo...', Array)
+#3 C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-order.php(1890): apply_filters('woocommerce_ord...', '<span class="wo...', Object(WC_Order_Item_Product), Object(WC_Order))
+#4 C:\xampp\htdocs\erpb2m\wp-content\plugins\kadence-woocommerce-email-designer\templates\woo\emails\email-order-items.php(176): WC_Abstract_Order->get_formatted_l, em C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php, na linha 158
+
+2020-05-04T21:02:39+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php:158
+Stack trace:
+#0 C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php(245): YITH_WC_Subscription->is_subscription(false)
+#1 C:\xampp\htdocs\erpb2m\wp-includes\class-wp-hook.php(288): YITH_WC_Subscription->order_formatted_line_subtotal('<span class="wo...', Object(WC_Order_Item_Product), Object(WC_Order))
+#2 C:\xampp\htdocs\erpb2m\wp-includes\plugin.php(206): WP_Hook->apply_filters('<span class="wo...', Array)
+#3 C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-order.php(1890): apply_filters('woocommerce_ord...', '<span class="wo...', Object(WC_Order_Item_Product), Object(WC_Order))
+#4 C:\xampp\htdocs\erpb2m\wp-content\plugins\kadence-woocommerce-email-designer\templates\woo\emails\email-order-items.php(176): WC_Abstract_Order->get_formatted_l, em C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php, na linha 158
+
+2020-05-04T21:41:54+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php:158
+Stack trace:
+#0 C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php(245): YITH_WC_Subscription->is_subscription(false)
+#1 C:\xampp\htdocs\erpb2m\wp-includes\class-wp-hook.php(288): YITH_WC_Subscription->order_formatted_line_subtotal('<span class="wo...', Object(WC_Order_Item_Product), Object(WC_Order))
+#2 C:\xampp\htdocs\erpb2m\wp-includes\plugin.php(206): WP_Hook->apply_filters('<span class="wo...', Array)
+#3 C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-order.php(1890): apply_filters('woocommerce_ord...', '<span class="wo...', Object(WC_Order_Item_Product), Object(WC_Order))
+#4 C:\xampp\htdocs\erpb2m\wp-content\plugins\kadence-woocommerce-email-designer\templates\woo\emails\email-order-items.php(91): WC_Abstract_Order->get_formatted_li, em C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php, na linha 158
+
+2020-05-04T21:42:53+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php:158
+Stack trace:
+#0 C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php(245): YITH_WC_Subscription->is_subscription(false)
+#1 C:\xampp\htdocs\erpb2m\wp-includes\class-wp-hook.php(288): YITH_WC_Subscription->order_formatted_line_subtotal('<span class="wo...', Object(WC_Order_Item_Product), Object(WC_Order))
+#2 C:\xampp\htdocs\erpb2m\wp-includes\plugin.php(206): WP_Hook->apply_filters('<span class="wo...', Array)
+#3 C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-order.php(1890): apply_filters('woocommerce_ord...', '<span class="wo...', Object(WC_Order_Item_Product), Object(WC_Order))
+#4 C:\xampp\htdocs\erpb2m\wp-content\plugins\kadence-woocommerce-email-designer\templates\woo\emails\email-order-items.php(91): WC_Abstract_Order->get_formatted_li, em C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php, na linha 158
+
+2020-05-04T21:47:02+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce-services\classes\class-wc-connect-logger.php, na linha 3
+
+2020-05-04T21:47:03+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce-services\classes\class-wc-connect-taxjar-integration.php, na linha 3
+
+2020-05-04T21:47:03+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce-services\classes\class-wc-connect-error-notice.php, na linha 8
+
+2020-05-04T21:47:04+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\elementor\includes\autoloader.php, na linha 267
+
+2020-05-04T21:47:30+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\woo-gutenberg-products-block\src\BlockTypes\ProductsByAttribute.php, na linha 10
+
+2020-05-04T22:36:14+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php:158
+Stack trace:
+#0 C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php(245): YITH_WC_Subscription->is_subscription(false)
+#1 C:\xampp\htdocs\erpb2m\wp-includes\class-wp-hook.php(288): YITH_WC_Subscription->order_formatted_line_subtotal('<span class="wo...', Object(WC_Order_Item_Product), Object(WC_Order))
+#2 C:\xampp\htdocs\erpb2m\wp-includes\plugin.php(206): WP_Hook->apply_filters('<span class="wo...', Array)
+#3 C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-order.php(1890): apply_filters('woocommerce_ord...', '<span class="wo...', Object(WC_Order_Item_Product), Object(WC_Order))
+#4 C:\xampp\htdocs\erpb2m\wp-content\plugins\kadence-woocommerce-email-designer\templates\woo\emails\email-order-items.php(91): WC_Abstract_Order->get_formatted_li, em C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php, na linha 158
+
+2020-05-04T22:38:15+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php:158
+Stack trace:
+#0 C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php(245): YITH_WC_Subscription->is_subscription(false)
+#1 C:\xampp\htdocs\erpb2m\wp-includes\class-wp-hook.php(288): YITH_WC_Subscription->order_formatted_line_subtotal('<span class="wo...', Object(WC_Order_Item_Product), Object(WC_Order))
+#2 C:\xampp\htdocs\erpb2m\wp-includes\plugin.php(206): WP_Hook->apply_filters('<span class="wo...', Array)
+#3 C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-order.php(1890): apply_filters('woocommerce_ord...', '<span class="wo...', Object(WC_Order_Item_Product), Object(WC_Order))
+#4 C:\xampp\htdocs\erpb2m\wp-content\plugins\kadence-woocommerce-email-designer\templates\woo\emails\email-order-items.php(91): WC_Abstract_Order->get_formatted_li, em C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\includes\class.yith-wc-subscription.php, na linha 158
+
+2020-05-04T23:04:17+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\contact-form-7\modules\count.php, na linha 8
+
+2020-05-04T23:04:56+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\gutenberg\build\block-library\blocks\social-link.php, na linha 15
+
+2020-05-04T23:04:56+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\gutenberg\lib\blocks.php, na linha 50
+
+2020-05-04T23:04:56+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\gutenberg\lib\blocks.php, na linha 50
+
+2020-05-04T23:04:56+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\gutenberg\lib\blocks.php, na linha 50
+
+2020-05-04T23:04:56+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\gutenberg\build\block-library\blocks\template-part.php, na linha 15
+
+2020-05-04T23:05:36+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce\i18n\countries.php, na linha 15
+
+2020-05-04T23:10:11+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\facebook-for-woocommerce\vendor\skyverge\wc-plugin-framework\woocommerce\compatibility\class-sv-wc-datetime.php, na linha 29
+
+2020-05-04T23:10:11+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\facebook-for-woocommerce\vendor\skyverge\wc-plugin-framework\woocommerce\api\interface-sv-wc-api-response.php, na linha 27
+
+
+2020-05-04T23:10:33+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\themes\oceanwp\inc\third\class-buddypress.php, na linha 9
+
+2020-05-04T23:10:52+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce-checkout-manager\includes\view\frontend\class-wooccm-fields-disable.php, na linha 3
+
+2020-05-04T23:10:52+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce-checkout-manager\includes\view\frontend\class-wooccm-fields-disable.php, na linha 3
+
+2020-05-04T23:10:52+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce-checkout-manager\includes\view\frontend\class-wooccm-fields-disable.php, na linha 3
+
+2020-05-04T23:10:52+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce-checkout-manager\includes\view\frontend\class-wooccm-fields-conditional.php, na linha 3
+
+2020-05-04T23:10:52+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce-checkout-manager\includes\view\frontend\class-wooccm-fields-filters.php, na linha 3
+
+2020-05-04T23:11:16+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce\packages\action-scheduler\classes\abstracts\ActionScheduler_Abstract_Schedule.php, na linha 6
+
+2020-05-04T23:13:17+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\facebook-for-woocommerce\vendor\skyverge\wc-plugin-framework\woocommerce\compatibility\abstract-sv-wc-data-compatibility.php, na linha 27
+

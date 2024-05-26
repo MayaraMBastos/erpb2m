@@ -1,0 +1,802 @@
+# Copyright (C) 2018 YITH WooCommerce Subscription
+# This file is distributed under the same license as the YITH WooCommerce Subscription package.
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Subscription 1.2.7\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/init\n"
+"POT-Creation-Date: 2018-10-23 12:30:03+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: includes/admin/class.ywsbs-subscriptions-list-table.php:28
+msgid "ID"
+msgstr ""
+
+#: includes/admin/class.ywsbs-subscriptions-list-table.php:29
+msgid "Status"
+msgstr ""
+
+#: includes/admin/class.ywsbs-subscriptions-list-table.php:30
+msgid "Product"
+msgstr ""
+
+#: includes/admin/class.ywsbs-subscriptions-list-table.php:31
+msgid "Recurring"
+msgstr ""
+
+#: includes/admin/class.ywsbs-subscriptions-list-table.php:32
+msgid "Order"
+msgstr ""
+
+#: includes/admin/class.ywsbs-subscriptions-list-table.php:33
+msgid "User"
+msgstr ""
+
+#: includes/admin/class.ywsbs-subscriptions-list-table.php:34
+msgid "Expires"
+msgstr ""
+
+#: includes/admin/class.ywsbs-subscriptions-list-table.php:146
+msgid "Never"
+msgstr ""
+
+#: includes/admin/class.ywsbs-subscriptions-list-table.php:171
+msgid "Delete"
+msgstr ""
+
+#: includes/class.yith-wc-subscription-admin.php:111
+#: includes/class.ywsbs-susbscription-helper.php:85
+#: includes/class.ywsbs-susbscription-helper.php:91
+msgid "Subscription"
+msgstr ""
+
+#: includes/class.yith-wc-subscription-admin.php:112
+msgid "Create a subscription for this product"
+msgstr ""
+
+#: includes/class.yith-wc-subscription-admin.php:138
+msgid "Subscription Settings"
+msgstr ""
+
+#: includes/class.yith-wc-subscription-admin.php:141
+msgid "Price is per"
+msgstr ""
+
+#: includes/class.yith-wc-subscription-admin.php:153
+msgid "Max length:"
+msgstr ""
+
+#: includes/class.yith-wc-subscription-admin.php:154
+msgid "Leave it empty for unlimited subscription"
+msgstr ""
+
+#: includes/class.yith-wc-subscription-admin.php:156
+msgid "(Max: <span class=\"max-l\">%d</span>)"
+msgstr ""
+
+#: includes/class.yith-wc-subscription-admin.php:258
+msgid "Settings"
+msgstr ""
+
+#: includes/class.yith-wc-subscription-admin.php:259
+#: includes/class.yith-wc-subscription-privacy.php:105
+#: templates/admin/subscriptions-tab.php:2
+msgid "Subscriptions"
+msgstr ""
+
+#: includes/class.yith-wc-subscription-admin.php:263
+msgid "Privacy"
+msgstr ""
+
+#: includes/class.yith-wc-subscription-admin.php:266
+msgid "Premium Version"
+msgstr ""
+
+#: includes/class.yith-wc-subscription-admin.php:400
+msgid "Plugin Documentation"
+msgstr ""
+
+#: includes/class.yith-wc-subscription-admin.php:404
+msgid "Discovery premium version"
+msgstr ""
+
+#: includes/class.yith-wc-subscription-admin.php:408
+msgid "Free Vs Premium"
+msgstr ""
+
+#: includes/class.yith-wc-subscription-admin.php:412
+msgid "Premium live demo"
+msgstr ""
+
+#: includes/class.yith-wc-subscription-admin.php:416
+msgid "WordPress support forum"
+msgstr ""
+
+#: includes/class.yith-wc-subscription-admin.php:420
+msgid "Changelog (current version %s)"
+msgstr ""
+
+#: includes/class.yith-wc-subscription-cron.php:186
+msgid ""
+"The subscription was been trashed after the specific duration because was in "
+"cancelled status."
+msgstr ""
+
+#: includes/class.yith-wc-subscription-order.php:786
+msgid "A new subscription #%d has been created from this order"
+msgstr ""
+
+#: includes/class.yith-wc-subscription-order.php:913
+#: includes/class.yith-wc-subscription-order.php:1083
+msgid "Error %d: unable to create the order. Please try again."
+msgstr ""
+
+#: includes/class.yith-wc-subscription-order.php:1000
+msgid "This order has been created to renew subscription #%s"
+msgstr ""
+
+#: includes/class.yith-wc-subscription-order.php:1126
+msgid "This order has been created to renew the subscription #%d"
+msgstr ""
+
+#: includes/class.yith-wc-subscription-privacy.php:62
+#: includes/class.yith-wc-subscription-privacy.php:78
+msgid "Customer Subscriptions"
+msgstr ""
+
+#. Translators: %s Order number.
+#: includes/class.yith-wc-subscription-privacy.php:149
+msgid "Removed personal data from subscription %s."
+msgstr ""
+
+#. Translators: %s Order number.
+#: includes/class.yith-wc-subscription-privacy.php:153
+msgid "Personal data within subscription %s has been retained."
+msgstr ""
+
+#: includes/class.yith-wc-subscription-privacy.php:229
+msgid "Subscription Number"
+msgstr ""
+
+#: includes/class.yith-wc-subscription-privacy.php:230
+msgid "Subscription Status"
+msgstr ""
+
+#: includes/class.yith-wc-subscription-privacy.php:231
+msgid "Subscription Creation Date"
+msgstr ""
+
+#: includes/class.yith-wc-subscription-privacy.php:232
+msgid "Subscription Total"
+msgstr ""
+
+#: includes/class.yith-wc-subscription-privacy.php:233
+msgid "Items Purchased"
+msgstr ""
+
+#: includes/class.yith-wc-subscription-privacy.php:234
+msgid "IP Address"
+msgstr ""
+
+#: includes/class.yith-wc-subscription-privacy.php:235
+msgid "Browser User Agent"
+msgstr ""
+
+#: includes/class.yith-wc-subscription-privacy.php:236
+msgid "Billing Address"
+msgstr ""
+
+#: includes/class.yith-wc-subscription-privacy.php:237
+msgid "Shipping Address"
+msgstr ""
+
+#: includes/class.yith-wc-subscription-privacy.php:238
+msgid "Phone Number"
+msgstr ""
+
+#: includes/class.yith-wc-subscription-privacy.php:239
+msgid "Email Address"
+msgstr ""
+
+#: includes/class.yith-wc-subscription.php:201
+msgid ""
+"A subscription has been removed from your cart. You cannot purchases "
+"different subscriptions at the same time."
+msgstr ""
+
+#: includes/class.ywsbs-susbscription-helper.php:83
+msgctxt "Post Type General Name"
+msgid "Subscriptions"
+msgstr ""
+
+#: includes/class.ywsbs-susbscription-helper.php:84
+msgctxt "Post Type Singular Name"
+msgid "Subscription"
+msgstr ""
+
+#: includes/class.ywsbs-susbscription-helper.php:86
+msgid "Parent Item:"
+msgstr ""
+
+#: includes/class.ywsbs-susbscription-helper.php:87
+msgid "All Subscriptions"
+msgstr ""
+
+#: includes/class.ywsbs-susbscription-helper.php:88
+msgid "View Subscriptions"
+msgstr ""
+
+#: includes/class.ywsbs-susbscription-helper.php:89
+#: includes/class.ywsbs-susbscription-helper.php:90
+msgid "Add New Subscription"
+msgstr ""
+
+#: includes/class.ywsbs-susbscription-helper.php:92
+msgid "Update Subscription"
+msgstr ""
+
+#: includes/class.ywsbs-susbscription-helper.php:93
+msgid "Search Subscription"
+msgstr ""
+
+#: includes/class.ywsbs-susbscription-helper.php:94
+msgid "Not found"
+msgstr ""
+
+#: includes/class.ywsbs-susbscription-helper.php:95
+msgid "Not found in Trash"
+msgstr ""
+
+#: includes/class.ywsbs-susbscription-helper.php:99
+msgid "ywsbs_subscription"
+msgstr ""
+
+#: includes/functions.yith-wc-subscription.php:31
+#: includes/functions.yith-wc-subscription.php:207
+#: includes/functions.yith-wc-subscription.php:289
+msgid "day"
+msgid_plural "days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/functions.yith-wc-subscription.php:34
+#: includes/functions.yith-wc-subscription.php:210
+#: includes/functions.yith-wc-subscription.php:292
+msgid "week"
+msgid_plural "weeks"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/functions.yith-wc-subscription.php:37
+#: includes/functions.yith-wc-subscription.php:213
+#: includes/functions.yith-wc-subscription.php:295
+msgid "month"
+msgid_plural "months"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/functions.yith-wc-subscription.php:40
+#: includes/functions.yith-wc-subscription.php:298
+msgid "year"
+msgid_plural "years"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/functions.yith-wc-subscription.php:62
+msgid "days"
+msgstr ""
+
+#: includes/functions.yith-wc-subscription.php:63
+msgid "months"
+msgstr ""
+
+#: includes/functions.yith-wc-subscription.php:376
+msgid "active"
+msgstr ""
+
+#: includes/functions.yith-wc-subscription.php:377
+msgid "paused"
+msgstr ""
+
+#: includes/functions.yith-wc-subscription.php:378
+msgid "pending"
+msgstr ""
+
+#: includes/functions.yith-wc-subscription.php:379
+msgid "overdue"
+msgstr ""
+
+#: includes/functions.yith-wc-subscription.php:380
+msgid "trial"
+msgstr ""
+
+#: includes/functions.yith-wc-subscription.php:381
+msgid "cancelled"
+msgstr ""
+
+#: includes/functions.yith-wc-subscription.php:382
+msgid "expired"
+msgstr ""
+
+#: includes/functions.yith-wc-subscription.php:383
+msgid "suspended"
+msgstr ""
+
+#: includes/gateways/paypal/class.yith-wc-subscription-paypal.php:195
+msgid "Order %s"
+msgstr ""
+
+#: includes/gateways/paypal/class.yith-wc-subscription-paypal.php:290
+msgid "Subscription %s at %s"
+msgstr ""
+
+#: includes/gateways/paypal/includes/class.ywsbs-paypal-ipn-handler.php:210
+msgid "IPN subscription started"
+msgstr ""
+
+#: includes/gateways/paypal/includes/class.ywsbs-paypal-ipn-handler.php:273
+#: includes/gateways/paypal/includes/class.ywsbs-paypal-ipn-handler.php:289
+#: includes/gateways/paypal/includes/class.ywsbs-paypal-ipn-handler.php:320
+msgid "IPN subscription payment completed."
+msgstr ""
+
+#: includes/gateways/paypal/includes/class.ywsbs-paypal-ipn-handler.php:360
+msgid "Paypal echeck payment"
+msgstr ""
+
+#: includes/gateways/paypal/includes/class.ywsbs-paypal-ipn-handler.php:367
+#: includes/gateways/paypal/includes/class.ywsbs-paypal-ipn-handler.php:380
+msgid "YSBS - IPN Pending payment for echeck payment type"
+msgstr ""
+
+#: includes/gateways/paypal/includes/class.ywsbs-paypal-ipn-handler.php:371
+msgid ""
+"YSBS - Subscription has been suspendend because in pending payment for "
+"echeck payment type"
+msgstr ""
+
+#: includes/gateways/paypal/includes/class.ywsbs-paypal-ipn-handler.php:424
+#: includes/gateways/paypal/includes/class.ywsbs-paypal-ipn-handler.php:432
+#: includes/gateways/paypal/includes/class.ywsbs-paypal-ipn-handler.php:446
+#: includes/gateways/paypal/includes/class.ywsbs-paypal-ipn-handler.php:506
+#: includes/gateways/paypal/includes/class.ywsbs-paypal-ipn-handler.php:514
+#: includes/gateways/paypal/includes/class.ywsbs-paypal-ipn-handler.php:527
+#: includes/gateways/paypal/includes/class.ywsbs-paypal-ipn-handler.php:572
+#: includes/gateways/paypal/includes/class.ywsbs-paypal-ipn-handler.php:580
+#: includes/gateways/paypal/includes/class.ywsbs-paypal-ipn-handler.php:593
+msgid "YSBS - IPN Failed payment"
+msgstr ""
+
+#: includes/gateways/paypal/includes/class.ywsbs-paypal-ipn-handler.php:640
+msgid ""
+"YSBS - Subscription cancelled max failed attemps: "
+"recurring_payment_suspended_due_to_max_failed_payment"
+msgstr ""
+
+#: includes/gateways/paypal/includes/class.ywsbs-paypal-ipn-handler.php:653
+#: includes/gateways/paypal/includes/class.ywsbs-paypal-ipn-handler.php:655
+msgid ""
+"YSBS - IPN message: recurring_payment_suspended_due_to_max_failed_payment"
+msgstr ""
+
+#: includes/gateways/paypal/includes/class.ywsbs-paypal-ipn-handler.php:691
+msgid "YSBS - IPN subscription cancelled for the order."
+msgstr ""
+
+#: includes/gateways/paypal/includes/class.ywsbs-paypal-ipn-handler.php:760
+msgid "Validation error: PayPal amounts do not match (gross %s)."
+msgstr ""
+
+#. translators: %s: payment status.
+#: includes/gateways/paypal/includes/class.ywsbs-paypal-ipn-handler.php:817
+msgid "Payment %s via IPN."
+msgstr ""
+
+#. translators: %s: order link.
+#: includes/gateways/paypal/includes/class.ywsbs-paypal-ipn-handler.php:821
+msgid "Payment for order %s refunded"
+msgstr ""
+
+#. translators: %1$s: order ID, %2$s: reason code.
+#: includes/gateways/paypal/includes/class.ywsbs-paypal-ipn-handler.php:823
+msgid "Order #%1$s has been marked as refunded - PayPal reason code: %2$s"
+msgstr ""
+
+#: init.php:49
+msgid ""
+"You can't activate the free version of YITH WooCommerce Subscription while "
+"you are using the premium one."
+msgstr ""
+
+#: init.php:71 init.php:122
+msgid ""
+"YITH WooCommerce Subscription is enabled but not effective. It requires "
+"WooCommerce in order to work."
+msgstr ""
+
+#: plugin-options/general-options.php:8
+msgid "General settings"
+msgstr ""
+
+#: plugin-options/general-options.php:14
+msgid "Enable Subscription"
+msgstr ""
+
+#: plugin-options/privacy-options.php:8
+msgid "Privacy settings"
+msgstr ""
+
+#: plugin-options/privacy-options.php:14
+msgid "Account erasure requests"
+msgstr ""
+
+#: plugin-options/privacy-options.php:15
+msgid "Remove personal data from subscriptions"
+msgstr ""
+
+#: plugin-options/privacy-options.php:16
+msgid ""
+"When handling an <a href=\"%s\">account erasure request</a>, should personal "
+"data within subscriptions be retained or removed?.\n"
+"<br>Note: All the subscriptions will change the status to cancelled if the "
+"personal data will be removed."
+msgstr ""
+
+#: plugin-options/privacy-options.php:30
+msgid "Personal data retention"
+msgstr ""
+
+#: plugin-options/privacy-options.php:31
+msgid ""
+"Choose how long to retain personal data when it's no longer needed for "
+"processing. Leave the following options blank to retain this data "
+"indefinitely."
+msgstr ""
+
+#: plugin-options/privacy-options.php:36
+msgid "Retain pending subscriptions"
+msgstr ""
+
+#: plugin-options/privacy-options.php:37
+msgid ""
+"Pending subscriptions are unpaid and may have been abandoned by the "
+"customer. They will be trashed after the specified duration."
+msgstr ""
+
+#: plugin-options/privacy-options.php:40 plugin-options/privacy-options.php:48
+msgid "N/A"
+msgstr ""
+
+#: plugin-options/privacy-options.php:44
+msgid "Retain cancelled subscriptions"
+msgstr ""
+
+#: plugin-options/privacy-options.php:45
+msgid ""
+"Cancelled subscriptions are disable subscriptions that can't be reactivated "
+"by the customer. They will be trashed after the specified duration."
+msgstr ""
+
+#: templates/admin/premium.php:273 templates/admin/premium.php:619
+msgid ""
+"Upgrade to %1$spremium version%2$s of %1$sYITH WooCommerce Subscription%2$s "
+"to benefit from all features!"
+msgstr ""
+
+#: templates/admin/premium.php:276 templates/admin/premium.php:622
+msgid "UPGRADE"
+msgstr ""
+
+#: templates/admin/premium.php:277 templates/admin/premium.php:623
+msgid "to the premium version"
+msgstr ""
+
+#: templates/admin/premium.php:283
+msgid "Premium Features"
+msgstr ""
+
+#: templates/admin/premium.php:290
+msgid "Support to variable products"
+msgstr ""
+
+#: templates/admin/premium.php:293
+msgid ""
+"Extend subscription possibilities to every product in your shop! With the "
+"premium version of this plugin you can configure %1$sdifferent types of "
+"subscription%2$s for the same product and exploit the potential of "
+"WooCommerce variable products. Free to act as you wish!"
+msgstr ""
+
+#: templates/admin/premium.php:302
+msgid "Pause the subscription"
+msgstr ""
+
+#: templates/admin/premium.php:305
+msgid ""
+"Users can pause their own subscription from their reserved area: easy! This "
+"way, they can benefit from contents they are paying for in the best way and "
+"will be able to suspend the subscription for the time they cannot use it. "
+"%3$s Consequently %1$ssubscription expiry date will be postponed as well%2$s."
+msgstr ""
+
+#: templates/admin/premium.php:320
+msgid "Defer payment"
+msgstr ""
+
+#: templates/admin/premium.php:323
+msgid ""
+"Allow payment deferment if you do not want that the subscription is deleted "
+"as soon as a fee is not paid. Whatever could be the reason for a missing "
+"payment. Set the duration of a deferment period during which users will be "
+"able to %1$scatch up missed payments%2$s: during this time, you can still "
+"allow access to content or hide it temporarily. "
+msgstr ""
+
+#: templates/admin/premium.php:332
+msgid "Trial period"
+msgstr ""
+
+#: templates/admin/premium.php:335
+msgid ""
+"Use the most common strategy on the market to convince your customers about "
+"what you offer.%1$s Give them the opportunity to access at no costs%2$s. "
+"When trial period ends and if users are interested in it, they will be able "
+"to subscribe."
+msgstr ""
+
+#: templates/admin/premium.php:350
+msgid "Sign-up fee"
+msgstr ""
+
+#: templates/admin/premium.php:353
+msgid ""
+"All users willing to subscribe will pay a one-time fee when signing up in "
+"addition to periodical fees. You can choose to ask for a %1$ssign-up fee%2$s "
+"or ask only for the periodical fee."
+msgstr ""
+
+#: templates/admin/premium.php:362
+msgid "Cancel and renew subscription"
+msgstr ""
+
+#: templates/admin/premium.php:365
+msgid ""
+"From \"My Account\" page, every user will be able to %1$smanage cancellation "
+"and/or renewal%2$s of the active subscription.%3$s Give your users as many "
+"tools as you can to improve services in your shop."
+msgstr ""
+
+#: templates/admin/premium.php:380
+msgid "Subscription detail page"
+msgstr ""
+
+#: templates/admin/premium.php:383
+msgid ""
+"For each subscription plan both users and admin can access to %1$sdetailed "
+"information%2$s, such as subscription start and end date or info about "
+"products associated to the subscription."
+msgstr ""
+
+#: templates/admin/premium.php:392
+msgid "Upgrade and downgrade"
+msgstr ""
+
+#: templates/admin/premium.php:395
+msgid ""
+"Create subscription plans with different content and give users the "
+"possibility to %1$sswitch from a plan to another%2$s. They just have to "
+"click on the specific button available in \"My Account\" page and, starting "
+"from the following month, they will begin paying for and benefit from the "
+"new plan they have subscribed."
+msgstr ""
+
+#: templates/admin/premium.php:410
+msgid "Send emails automatically "
+msgstr ""
+
+#: templates/admin/premium.php:413
+msgid ""
+"%1$sGet emails each time a subscription plan is paused or cancelled%2$s. At "
+"the same time, let your customers receive emails also when the payment is "
+"made, when the subscription is going to expire or when it is stopped, "
+"cancelled or resumed."
+msgstr ""
+
+#: templates/admin/premium.php:422
+msgid "Coupons"
+msgstr ""
+
+#: templates/admin/premium.php:425
+msgid ""
+"Two new types of coupons have been added to the standard ones provided by "
+"WooCommerce. Configure specific coupons that give your users discounts on "
+"%1$ssign-up fee%2$s or on the %1$srecurring subscription fee.%2$s"
+msgstr ""
+
+#: templates/admin/premium.php:440
+msgid "Activity list"
+msgstr ""
+
+#: templates/admin/premium.php:443
+msgid ""
+"All activities made on %1$ssubscriptions plans are recorded and added in a "
+"related table%2$s. You will have control of every change, tracking all "
+"subscriptions made in your shop."
+msgstr ""
+
+#: templates/admin/premium.php:452
+msgid "Integration with YITH WooCommerce Membership"
+msgstr ""
+
+#: templates/admin/premium.php:455
+msgid ""
+"By combining these two powerful plugins, %1$syou will be able to create "
+"different membership plans and associate them to different subscription plans"
+"%2$s. What's the difference? Subscription gives temporary and periodical "
+"access to contents, membership gives access to different content elements in "
+"your site. A perfect combination!"
+msgstr ""
+
+#: templates/admin/premium.php:470
+msgid "Cancel subscription"
+msgstr ""
+
+#: templates/admin/premium.php:473
+msgid ""
+"The subscription is automatically removed from database in case the order "
+"associated to it is cancelled by the admin. %1$sNo management problems%2$s, "
+"the plugin does all for you."
+msgstr ""
+
+#: templates/admin/premium.php:482
+msgid "Suspend subscription automatically"
+msgstr ""
+
+#: templates/admin/premium.php:485
+msgid ""
+"Did your subscription %1$srecurring spayment fail?%2$s%3$s Consider also the "
+"possibility for this to happen and %1$senable subscription automatic "
+"suspension%2$s.%3$s As soon as the payment succeeds the active status will "
+"be automatically restored"
+msgstr ""
+
+#: templates/admin/premium.php:500
+msgid "Three failed payment attempts"
+msgstr ""
+
+#: templates/admin/premium.php:503
+msgid ""
+"No subscription will be set to \"Pending\" for too long: after three failed "
+"payment attempts, the subscription will be %1$sautomatically switched to "
+"\"cancelled\"%2$s and no possibility to restore it is given. This behaviour "
+"is applicable to payments made via Stripe or PayPal."
+msgstr ""
+
+#: templates/admin/premium.php:512
+msgid "Postpone status switch"
+msgstr ""
+
+#: templates/admin/premium.php:515
+msgid ""
+"Some issues related to correct %1$ssyncronisation with PayPal and Stripe "
+"service%2$s could cause delays in receiving subscription payments.%3$s To "
+"consider also this possibility, you can set a grace period (set in hours) "
+"before the current status is switched to \"overdue\", \"suspended\" or "
+"\"cancelled\"."
+msgstr ""
+
+#: templates/admin/premium.php:531
+msgid "Charge shipping fees only once"
+msgstr ""
+
+#: templates/admin/premium.php:534
+msgid ""
+"Take advantage of this feature if you need to ship documents or other stuff "
+"only when users subscribe. Suppose the service you sell is entirely handled "
+"digitally, except for the first time, when you have to ship gadgets or "
+"necessary documents. No need to charge them other costs or give coupons, "
+"%1$scharge the shipping fees only once as part of the first subscription "
+"order%2$s."
+msgstr ""
+
+#: templates/admin/premium.php:543
+msgid "Edit and load Billing and shipping address"
+msgstr ""
+
+#: templates/admin/premium.php:546
+msgid ""
+"Your users may need to change some of their details, like the name, the "
+"shipping address or their telephone number while their subscription keeps "
+"running. %3$sBut if they update their details, how can you be sure they "
+"match what has been stored in the subscription detail? Just click on %1$sLoad"
+"%2$s or %1$sEdit%2$s (if they have just informed you via email about the "
+"change they want to apply) and you’ll be sure this information is updated. "
+"This way, you make sure that %1$swhat you see are always the correct data"
+"%2$s."
+msgstr ""
+
+#: templates/admin/premium.php:561
+msgid "Let your customers edit the address for one or all subscriptions"
+msgstr ""
+
+#: templates/admin/premium.php:564
+msgid ""
+"Suppose your users have more than one subscription running on your store at "
+"the same time, but they want the items to be shipped to different addresses, "
+"how can they differentiate all this? They can open the subscription details "
+"in My Account and edit one by one.%3$sBut, if they move to another place, "
+"and want to %1$supdate the billing address of all subscriptions%2$s? Should "
+"they do the same operation for every subscription? No, they don’t have to. "
+"They can %1$sedit the address only once and have the same change applied to "
+"all their subscription plans%2$s."
+msgstr ""
+
+#: templates/admin/premium.php:573
+msgid "Handle personal data requests and anonymisation process"
+msgstr ""
+
+#: templates/admin/premium.php:576
+msgid ""
+"The GDPR introduces important changes to the privacy options. Your store "
+"collects data, your customers may want their anonymisations, but you may "
+"need to keep this information for as long as the law requires to you as "
+"merchant.%3$s%1$sHandle the anonymasation requests%2$s and %1$sthe time "
+"customers’ information have to be retained in the subscriptions%2$s from a "
+"dedicated panel in the plugin options."
+msgstr ""
+
+#: templates/admin/premium.php:592
+msgid "ADD MULTIPLE SUBSCRIPTIONS TO THE SAME CART"
+msgstr ""
+
+#: templates/admin/premium.php:595
+msgid ""
+"Forget about annoyed customers stopped by error messages that warn them "
+"about the fact they can only buy one subscription product at a time.%3$s If "
+"you're using one among %1$sYITH Stripe%2$s, %1$sYITH Stripe Connect%2$s and "
+"%1$sYITH PayPal Express Checkout%2$s plugins, your customers be able to add "
+"more than one subscription product to the same cart and check out faster."
+msgstr ""
+
+#: templates/admin/premium.php:604
+msgid "EDIT DETAILS OF ONGOING SUBSCRIPTIONS"
+msgstr ""
+
+#: templates/admin/premium.php:607
+msgid ""
+"Any issues during the subscription, personal problems, change of address or "
+"simply any change of mind? If you want to meet your customers half-way, you "
+"can now edit the details of ongoing subscriptions: %1$sbilling date, expiry "
+"date, billing cycle and amount%2$s.%3$sDiscover more about which features "
+"are supported by which payment gateway here "
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "YITH WooCommerce Subscription"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://yithemes.com/themes/plugins/yith-woocommerce-subscription/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"<code><strong>YITH WooCommerce Subscription</strong></code> allows enabling "
+"automatic recurring payments on your products. Once you buy a subscription-"
+"based product, the plugin will renew the payment automatically based on your "
+"own settings. Perfect for any kind of subscriptions, like magazines, "
+"software and so on. <a href=\"https://yithemes.com/\" target=\"_blank\">Get "
+"more plugins for your e-commerce shop on <strong>YITH</strong></a>."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "YITH"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://yithemes.com/"
+msgstr ""

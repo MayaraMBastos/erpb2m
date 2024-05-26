@@ -1,0 +1,4 @@
+2020-04-15T00:25:41+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-includes\wp-db.php, na linha 2030
+
+2020-04-15T16:50:24+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce-checkout-manager\includes\model\class-wooccm-field.php, na linha 3
+

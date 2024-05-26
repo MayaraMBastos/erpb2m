@@ -1,0 +1,30 @@
+2020-04-30T00:29:38+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-includes\class-requests.php, na linha 563
+
+2020-04-30T00:29:47+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\ocean-extra\includes\shortcodes\shortcodes.php, na linha 11
+
+2020-04-30T01:10:57+00:00 CRITICAL Uncaught Error: Call to a member function get_type() on string in C:\xampp\htdocs\erpb2m\wp-content\plugins\wc-custom-add-to-cart-labels\wc-custom-add-to-cart-labels.php:172
+Stack trace:
+#0 C:\xampp\htdocs\erpb2m\wp-includes\class-wp-hook.php(290): custom_woocommerce_product_add_to_cart_text('Comprar')
+#1 C:\xampp\htdocs\erpb2m\wp-includes\plugin.php(206): WP_Hook->apply_filters('Comprar', Array)
+#2 C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce\includes\class-wc-product-simple.php(62): apply_filters('woocommerce_pro...', 'Comprar', Object(WC_Product_Simple))
+#3 C:\xampp\htdocs\erpb2m\wp-content\themes\oceanwp\inc\woocommerce\woocommerce-config.php(1317): WC_Product_Simple->add_to_cart_text()
+#4 C:\xampp\htdocs\erpb2m\wp-content\themes\oceanwp\inc\woocommerce\woocommerce-config.php(1296): OceanWP_WooCommerce_Config::floating_bar_add_to_cart(Object(WC_Product_Simple))
+#5 C:\xampp\htdocs\erpb2m\wp-includes\class-wp-hook.php(288): OceanWP_WooCommerce_Config->floating_bar('')
+#6 C:\xampp\htdocs\erpb2m\wp-i, em C:\xampp\htdocs\erpb2m\wp-content\plugins\wc-custom-add-to-cart-labels\wc-custom-add-to-cart-labels.php, na linha 172
+
+2020-04-30T01:12:59+00:00 CRITICAL Uncaught Error: Call to a member function get_type() on string in C:\xampp\htdocs\erpb2m\wp-content\plugins\wc-custom-add-to-cart-labels\wc-custom-add-to-cart-labels.php:172
+Stack trace:
+#0 C:\xampp\htdocs\erpb2m\wp-includes\class-wp-hook.php(290): custom_woocommerce_product_add_to_cart_text('Comprar')
+#1 C:\xampp\htdocs\erpb2m\wp-includes\plugin.php(206): WP_Hook->apply_filters('Comprar', Array)
+#2 C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce\includes\class-wc-product-simple.php(62): apply_filters('woocommerce_pro...', 'Comprar', Object(WC_Product_Simple))
+#3 C:\xampp\htdocs\erpb2m\wp-content\themes\oceanwp\inc\woocommerce\woocommerce-config.php(1317): WC_Product_Simple->add_to_cart_text()
+#4 C:\xampp\htdocs\erpb2m\wp-content\themes\oceanwp\inc\woocommerce\woocommerce-config.php(1296): OceanWP_WooCommerce_Config::floating_bar_add_to_cart(Object(WC_Product_Simple))
+#5 C:\xampp\htdocs\erpb2m\wp-includes\class-wp-hook.php(288): OceanWP_WooCommerce_Config->floating_bar('')
+#6 C:\xampp\htdocs\erpb2m\wp-i, em C:\xampp\htdocs\erpb2m\wp-content\plugins\wc-custom-add-to-cart-labels\wc-custom-add-to-cart-labels.php, na linha 172
+
+2020-04-30T01:26:00+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-admin\includes\options.php, na linha 15
+
+2020-04-30T01:26:35+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\woo-gutenberg-products-block\src\BlockTypes\ActiveFilters.php, na linha 10
+
+2020-04-30T01:26:59+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-includes\wp-db.php, na linha 2030
+

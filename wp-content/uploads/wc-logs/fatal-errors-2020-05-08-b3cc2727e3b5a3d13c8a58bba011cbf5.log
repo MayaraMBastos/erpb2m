@@ -1,0 +1,12 @@
+2020-05-08T19:47:33+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\ocean-extra\includes\widgets\recent-posts.php, na linha 9
+
+2020-05-08T19:50:09+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-includes\Requests\Transport\cURL.php, na linha 463
+
+2020-05-08T20:46:41+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-includes\wp-db.php, na linha 2030
+
+2020-05-08T22:10:16+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce\includes\admin\reports\class-wc-admin-report.php, na linha 3
+
+2020-05-08T22:10:16+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce\includes\admin\reports\class-wc-admin-report.php, na linha 3
+
+2020-05-08T22:10:18+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce-checkout-manager\includes\view\frontend\class-wooccm-fields-register.php, na linha 3
+

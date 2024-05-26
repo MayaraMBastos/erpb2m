@@ -1,0 +1,34 @@
+2020-05-10T15:57:55+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\essential-addons-for-elementor-lite\includes\Elements\Feature_List.php, na linha 6
+
+2020-05-10T16:46:31+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\ocean-extra\includes\client-migration\class-fs-client-migration-abstract.php, na linha 9
+
+2020-05-10T16:46:54+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\woo-variation-swatches\includes\tutorials.php, na linha 4
+
+2020-05-10T16:47:04+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\gutenberg\lib\blocks.php, na linha 50
+
+2020-05-10T16:47:04+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\gutenberg\build\block-library\blocks\legacy-widget.php, na linha 15
+
+2020-05-10T16:47:04+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\gutenberg\lib\blocks.php, na linha 50
+
+2020-05-10T16:47:13+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\jetwoo-widgets-for-elementor\includes\class-jet-woo-widgets-shortcodes.php, na linha 55
+
+2020-05-10T16:48:56+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\themes\oceanwp\inc\walker\init.php, na linha 8
+
+2020-05-10T16:48:57+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\themes\oceanwp\inc\customizer\customizer.php, na linha 8
+
+2020-05-10T16:48:57+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-includes\theme.php, na linha 2413
+
+2020-05-10T16:48:57+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-includes\theme.php, na linha 2413
+
+2020-05-10T16:49:06+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\elementor\includes\autoloader.php, na linha 267
+
+2020-05-10T16:49:06+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\elementor\includes\autoloader.php, na linha 267
+
+2020-05-10T16:49:13+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\gutenberg\lib\blocks.php, na linha 50
+
+2020-05-10T16:49:14+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\ocean-extra\includes\widgets\custom-links.php, na linha 9
+
+2020-05-10T16:53:59+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-includes\wp-db.php, na linha 2030
+
+2020-05-10T16:54:27+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\woo-gutenberg-products-block\src\RestApi\Controllers\ProductCategories.php, na linha 13
+

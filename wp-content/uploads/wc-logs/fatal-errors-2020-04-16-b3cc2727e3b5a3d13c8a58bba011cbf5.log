@@ -1,0 +1,90 @@
+2020-04-16T17:00:28+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\ocean-extra\includes\widgets\facebook.php, na linha 11
+
+2020-04-16T17:29:45+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\woo-gutenberg-products-block\src\BlockTypes\AbstractProductGrid.php, na linha 10
+
+2020-04-16T18:18:19+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\ocean-extra\includes\panel\demos.php, na linha 11
+
+2020-04-16T18:18:19+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\ocean-extra\includes\panel\demos.php, na linha 11
+
+2020-04-16T18:18:20+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\ocean-extra\includes\menu-icons\includes\library\icon-selector\icon-selector.php, na linha 2
+
+2020-04-16T18:18:20+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\ocean-extra\includes\menu-icons\includes\library\icon-selector\icon-selector.php, na linha 2
+
+2020-04-16T18:18:54+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce\includes\emails\class-wc-email.php, na linha 8
+
+2020-04-16T18:36:16+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-includes\wp-db.php, na linha 2957
+
+2020-04-16T18:44:23+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-admin\includes\misc.php, na linha 16
+
+2020-04-16T20:02:30+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-includes\wp-db.php, na linha 2030
+
+image-resizer.php, na linha 25
+
+2020-04-16T20:02:30+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\ocean-extra\includes\shortcodes\shortcodes.php, na linha 11
+
+2020-04-16T20:02:30+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\ocean-extra\includes\shortcodes\shortcodes.php, na linha 11
+
+2020-04-16T20:03:12+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce\includes\emails\class-wc-email.php, na linha 8
+
+2020-04-16T20:04:26+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce-services\classes\class-wc-connect-service-schemas-validator.php, na linha 3
+
+2020-04-16T20:04:27+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\elementor\includes\autoloader.php, na linha 267
+
+2020-04-16T20:04:28+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce-services\classes\class-wc-connect-nux.php, na linha 3
+
+2020-04-16T20:04:28+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce-services\classes\class-wc-connect-nux.php, na linha 3
+
+2020-04-16T20:04:28+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce-services\classes\class-wc-connect-stripe.php, na linha 3
+
+2020-04-16T20:05:14+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce\packages\woocommerce-rest-api\src\Controllers\Version1\class-wc-rest-report-sales-v1-controller.php, na linha 13
+
+2020-04-16T20:07:15+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\themes\oceanwp\functions.php, na linha 22
+
+2020-04-16T20:07:23+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\elementor\includes\autoloader.php, na linha 267
+
+2020-04-16T20:07:23+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\elementor\includes\autoloader.php, na linha 267
+
+2020-04-16T20:07:23+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\elementor\includes\maintenance-mode.php, na linha 6
+
+2020-04-16T20:07:31+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce-admin\src\Features\Analytics.php, na linha 14
+
+2020-04-16T20:33:20+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\wpforms-lite\includes\class-process.php, na linha 8
+
+2020-04-16T20:33:21+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\wpforms-lite\includes\admin\class-welcome.php, na linha 10
+
+2020-04-16T20:33:22+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-includes\widgets\class-wp-widget-search.php, na linha 17
+
+2020-04-16T20:33:22+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-includes\widgets\class-wp-widget-search.php, na linha 17
+
+2020-04-16T20:33:22+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-includes\widgets\class-wp-widget-pages.php, na linha 17
+
+2020-04-16T20:33:49+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\plugin-fw\lib\yit-theme-licence.php, na linha 11
+
+2020-04-16T20:33:51+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\yith-woocommerce-subscription\plugin-fw\lib\yit-debug.php, na linha 13
+
+2020-04-16T20:38:50+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-includes\wp-db.php, na linha 2030
+
+2020-04-16T20:51:37+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\facebook-for-woocommerce\vendor\skyverge\wc-plugin-framework\woocommerce\rest-api\class-sv-wc-plugin-rest-api.php, na linha 27
+
+2020-04-16T20:52:29+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-admin\includes\screen.php, na linha 19
+
+2020-04-16T21:18:43+00:00 CRITICAL Out of memory (allocated 10485760) (tried to allocate 32768 bytes), em C:\xampp\htdocs\erpb2m\wp-content\plugins\woocommerce\includes\class-wc-product-variation.php, na linha 386
+
+2020-04-16T21:46:29+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\elementor\includes\autoloader.php, na linha 267
+
+2020-04-16T21:46:42+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-includes\Requests\Response\Headers.php, na linha 13
+
+2020-04-16T21:46:51+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\wpforms-lite\includes\admin\importers\class-contact-form-7.php, na linha 7
+
+2020-04-16T21:50:37+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-includes\pluggable-deprecated.php, na linha 18
+
+2020-04-16T21:50:38+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-includes\widgets\class-wp-widget-media.php, na linha 17
+
+2020-04-16T21:50:38+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-includes\widgets\class-wp-widget-media-audio.php, na linha 18
+
+2020-04-16T21:58:00+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-content\plugins\elementor\includes\autoloader.php, na linha 267
+
+2020-04-16T21:58:19+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-includes\wp-db.php, na linha 2030
+
+2020-04-16T22:12:35+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\erpb2m\wp-includes\wp-db.php, na linha 2030
+

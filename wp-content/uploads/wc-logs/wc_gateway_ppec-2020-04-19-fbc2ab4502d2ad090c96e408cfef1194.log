@@ -1,0 +1,77 @@
+04-19-2020 @ 17:46:19 - WC_Gateway_PPEC_Client::_request: remote request to https://api-3t.sandbox.paypal.com/nvp with params: Array
+(
+    [METHOD] => GetPalDetails
+    [VERSION] => 120.0
+    [USER] => sb-nqj43k1454098_api1.business.example.com
+    [PWD] => WQPNQDJL5QVW83H4
+    [SIGNATURE] => A8.1BBMOWZtftQpZ9KsPWaTIKap.ABP1vNX7S8bCcR0jWQGdsKC4tDMt
+)
+
+04-19-2020 @ 17:46:25 - WC_Gateway_PPEC_Client::_process_response: acknowleged response body: Array
+(
+    [PAL] => X4AEQNTBHJFVL
+    [LOCALE] => pt_BR
+    [TIMESTAMP] => 2020-04-19T20:46:25Z
+    [CORRELATIONID] => c8e7d98f8e561
+    [ACK] => Success
+    [VERSION] => 120.0
+    [BUILD] => 53802284
+)
+
+04-19-2020 @ 17:52:35 - WC_Gateway_PPEC_Client::_request: remote request to https://api-3t.sandbox.paypal.com/nvp with params: Array
+(
+    [LOGOIMG] => 
+    [HDRIMG] => 
+    [PAGESTYLE] => 
+    [BRANDNAME] => B2M Tecnologia em Gestão e Marketing Digital
+    [RETURNURL] => http://localhost/erpb2m/finalizar-compra/?woo-paypal-return=true
+    [CANCELURL] => http://localhost/erpb2m/carrinho/?woo-paypal-cancel=true
+    [ADDROVERRIDE] => 1
+    [LANDINGPAGE] => Billing
+    [SOLUTIONTYPE] => Sole
+    [PAYMENTREQUEST_0_PAYMENTACTION] => sale
+    [PAYMENTREQUEST_0_INSURANCEAMT] => 0
+    [PAYMENTREQUEST_0_HANDLINGAMT] => 0
+    [PAYMENTREQUEST_0_CUSTOM] => 
+    [PAYMENTREQUEST_0_INVNUM] => 
+    [PAYMENTREQUEST_0_CURRENCYCODE] => BRL
+    [PAYMENTREQUEST_0_AMT] => 979.5
+    [PAYMENTREQUEST_0_ITEMAMT] => 979.5
+    [PAYMENTREQUEST_0_SHIPPINGAMT] => 0
+    [PAYMENTREQUEST_0_TAXAMT] => 0
+    [PAYMENTREQUEST_0_SHIPDISCAMT] => 0
+    [NOSHIPPING] => 1
+    [EMAIL] => maybastos2010@hotmail.com
+    [PAYMENTREQUEST_0_SHIPTONAME] => Mayara Bastos
+    [PAYMENTREQUEST_0_SHIPTOSTREET] => Rua fulano
+    [PAYMENTREQUEST_0_SHIPTOSTREET2] => 
+    [PAYMENTREQUEST_0_SHIPTOCITY] => Pato Branco
+    [PAYMENTREQUEST_0_SHIPTOSTATE] => PR
+    [PAYMENTREQUEST_0_SHIPTOZIP] => 85502-120
+    [PAYMENTREQUEST_0_SHIPTOCOUNTRYCODE] => BR
+    [PAYMENTREQUEST_0_SHIPTOPHONENUM] => (68) 0880-1995
+    [L_PAYMENTREQUEST_0_NAME0] => Pacote Lite - 8 Módulos - 1 Usuário
+    [L_PAYMENTREQUEST_0_DESC0] => 
+    [L_PAYMENTREQUEST_0_QTY0] => 1
+    [L_PAYMENTREQUEST_0_AMT0] => 179.5
+    [L_PAYMENTREQUEST_0_NAME1] => Taxa de Implementação
+    [L_PAYMENTREQUEST_0_DESC1] => 
+    [L_PAYMENTREQUEST_0_QTY1] => 1
+    [L_PAYMENTREQUEST_0_AMT1] => 800
+    [METHOD] => SetExpressCheckout
+    [VERSION] => 120.0
+    [USER] => sb-nqj43k1454098_api1.business.example.com
+    [PWD] => WQPNQDJL5QVW83H4
+    [SIGNATURE] => A8.1BBMOWZtftQpZ9KsPWaTIKap.ABP1vNX7S8bCcR0jWQGdsKC4tDMt
+)
+
+04-19-2020 @ 17:52:37 - WC_Gateway_PPEC_Client::_process_response: acknowleged response body: Array
+(
+    [TOKEN] => EC-9U085811J18274201
+    [TIMESTAMP] => 2020-04-19T20:52:37Z
+    [CORRELATIONID] => 6f25d064c8312
+    [ACK] => Success
+    [VERSION] => 120.0
+    [BUILD] => 54449905
+)
+
